@@ -30,7 +30,7 @@ Terminal, dari folder final:
 - hasil/json_terminal/: satu contoh hasil terminal; hasil berikutnya ditulis di sini.
 - hasil/excel/: Excel hasil 80 kasus.
 - pengujian/: skrip untuk mengulang 80 kasus; hasil baru disimpan terpisah.
-- dokumen/: rekap final, naskah Bab 3–4 dalam bahasa Indonesia dan Inggris, serta revisi Bab 1–2 dengan perubahan disorot untuk pemeriksaan.
+- dokumen/: laporan artikel IEEE berbahasa Indonesia (`Laporan_RuteSiaga_IEEE_Final.docx`), rekap final, naskah Bab 3–4 dalam bahasa Indonesia dan Inggris, serta revisi Bab 1–2 dengan perubahan disorot untuk pemeriksaan.
 - MANIFEST_SHA256.json: inventaris berkas dan checksum, tidak mencakup lingkungan Python.
 
 Contoh graf sintetis, pencarian jalur berbeda, dokumen versi lama, template kosong, dan hasil duplikat disimpan di folder saudara `RuteSiaga_ARSIP_PENDUKUNG`. Folder arsip dan `RuteSiaga_RUNTIME_LOKAL` tidak perlu dikumpulkan. Peluncur tetap bekerja di komputer ini karena lingkungan Python lokal tetap tersedia di sebelah paket final.

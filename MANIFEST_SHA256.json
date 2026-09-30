@@ -6,8 +6,8 @@
   },
   {
     "file": ".gitignore",
-    "bytes": 36,
-    "sha256": "1b9854594120d2dcac0310711d2c90a4bac2bc59a9d77137f55cc258784b41ab"
+    "bytes": 40,
+    "sha256": "e9990b0516613ef9628d031fd1f94d81b90df1d15c8a580d7b07e4129fa080d6"
   },
   {
     "file": "Jalankan-Streamlit.cmd",
@@ -25,9 +25,14 @@
     "sha256": "bb2043f937abb5c7332fc8a410747c9dbe010dc13339702222abaa8590800138"
   },
   {
+    "file": "README.md",
+    "bytes": 114,
+    "sha256": "2cfcb2731d3e2310df5f6b35c5bdf7d7dc81bfc89742e825bf77787161ae3a88"
+  },
+  {
     "file": "README_MULAI_DI_SINI.md",
-    "bytes": 4805,
-    "sha256": "859da5aa8acba7d8e478ff76394b8683f171c984fe39c72d6a9e1fcd79eb507d"
+    "bytes": 4885,
+    "sha256": "0f8b377b28ecf291611e3b338687d559ee9594f69fff0c39868d02eaebfbabe0"
   },
   {
     "file": "Siapkan-Python.cmd",
@@ -43,6 +48,11 @@
     "file": "dokumen/LAPORAN_BAGIAN_3_DAN_4.md",
     "bytes": 15424,
     "sha256": "ec10d72ebf455a71cae8913593f93505cb57848e23503a7e7d74a7ebdfb84bcd"
+  },
+  {
+    "file": "dokumen/Laporan_RuteSiaga_IEEE_Final.docx",
+    "bytes": 89144,
+    "sha256": "cb99e6b99d72d83edfe5806cf2475ec8f2e85b6121872cc0ceed47849dad4a38"
   },
   {
     "file": "dokumen/REKAP_FINAL.md",
