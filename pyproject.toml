@@ -1,0 +1,13 @@
+[project]
+name = "rutesiaga"
+version = "1.0.0"
+description = "Estimasi rute ambulans ke rumah sakit di DIY dengan UCS dan A*"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy==2.5.3",
+    "shapely==2.1.2",
+    "networkx==3.6.1",
+]
+
+[tool.vercel]
+entrypoint = "app:app"

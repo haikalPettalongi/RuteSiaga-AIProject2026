@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "app.py": {
+      "maxDuration": 60,
+      "excludeFiles": "{dokumen/**,hasil/**,pengujian/**,.streamlit/**,streamlit_app.py,mesin/data_offline/**,mesin/network_diy_akses_umum/access_catalog.sqlite,mesin/network_diy/graph_diy.json,mesin/network_diy/graph_diy_poi.json,mesin/network_diy/network_extract.json,**/test_*.py,**/__pycache__/**}"
+    }
+  }
+}

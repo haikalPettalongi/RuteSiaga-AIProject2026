@@ -1,0 +1,9 @@
+{
+ "format": 1,
+ "cell_m": 500,
+ "major_cell_m": 2000,
+ "shards": 4,
+ "segments": 1252641,
+ "source": "access_catalog.sqlite (lossless re-pack)",
+ "zstd_level": 15
+}

@@ -10,6 +10,9 @@
 Paket data besar (SQLite sekitar 1,3 GB dan graf JSON sekitar 159 MB) dapat membuat proses membangun/menjalankan aplikasi di layanan gratis lambat atau kehabisan memori. Status deploy publik **belum diverifikasi** karena repositori GitHub belum tersedia. Peta dasar OpenStreetMap dan Streamlit memerlukan internet, sedangkan perhitungan rute memakai data paket.
 Pencarian nama menggunakan indeks OSM dalam paket, jadi nama yang tidak ada di indeks mungkin tidak ditemukan. Pilih titik di peta atau masukkan koordinat untuk kasus itu. Kebijakan Windows Application Control pada komputer ini juga dapat memblokir DLL Python; ini masalah lingkungan lokal, bukan hasil uji hosting Streamlit.
 
+### Versi Vercel
+Data mentah (±1,6 GB) melebihi batas bundel Vercel, jadi deploy memakai salinan terkompresi tanpa kehilangan isi: `mesin/network_diy_akses_umum/compact/` (katalog jalan, zstd) dan `mesin/network_diy/graph_diy_poi.json.zst` (graf). Keduanya dibuat oleh `python mesin/build_compact_catalog.py` dan **wajib ikut di-commit** (bukan LFS). `app.py` mengekspor aplikasi WSGI, `pyproject.toml` memuat dependensi ringan dan entrypoint, `vercel.json` mengecualikan data mentah. Butuh Python 3.14. Jangan aktifkan Git LFS di pengaturan proyek Vercel: file LFS tidak dipakai saat deploy. Fungsi mengalami cold start ±10–20 detik saat graf dimuat pertama kali.
+
 ### Versi web lokal
 1. Tutup server RuteSiaga lama (Ctrl+C pada terminalnya) agar port 8765 bebas.
 2. Klik dua kali **Jalankan-Web.cmd**. Biarkan terminal tetap terbuka.

@@ -24,6 +24,10 @@ def get_base_index(engine, cache):
                    engine/'network_diy/poi/poi_features.geojson',
                    engine/'network_diy/graph_diy_poi.json',
                    engine/'network_diy_akses_awal/hospital_goal_overrides.json']
+        # Deployed copies (e.g. Vercel) ship only the prebuilt index: the raw sources are absent or LFS pointers.
+        raw_ready = all(p.exists() and p.stat().st_size > 1_000_000 for p in sources[:1])
+        if cache.exists() and not raw_ready:
+            _items = json.loads(cache.read_text(encoding='utf-8'))['items']; return _items
         stamp = [(str(p), p.stat().st_size, p.stat().st_mtime_ns) for p in sources]
         if cache.exists():
             saved = json.loads(cache.read_text(encoding='utf-8'))

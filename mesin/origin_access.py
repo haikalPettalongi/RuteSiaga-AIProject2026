@@ -7,6 +7,7 @@ from shapely import STRtree
 from add_poi_penalties import covered_length
 from hospital_goal_overrides import apply_goal_overrides
 from build_access_catalog import ORIGINAL_POLICY
+from compact_catalog import available as compact_available,query as compact_query
 BASE=Path(__file__).resolve().parent
 CAT=BASE/'network_diy_akses_umum'
 
@@ -35,6 +36,7 @@ def project_segment(xy,a,b):
  return math.dist(xy,p),f,p
 
 def catalog_segments(xy,radius):
+ if compact_available(CAT):return compact_query(CAT,xy,radius)
  path=CAT/'access_catalog.sqlite'
  if not path.exists() or not (CAT/'catalog_report.json').exists():raise OriginError('Katalog akses umum belum tersedia. Jalankan build_access_catalog.py dahulu.')
  db=sqlite3.connect(path.as_uri()+'?mode=ro',uri=True)
