@@ -14,12 +14,19 @@ from hospital_goal_overrides import apply_goal_overrides
 from location_search import search as search_locations
 GRAPH=None
 LOCK=threading.Lock()
+LOAD_LOCK=threading.Lock()
 
 def base_graph():
  global GRAPH
  if GRAPH is None:
-  GRAPH=json.loads((ENGINE/'network_diy/graph_diy_poi.json').read_text(encoding='utf-8'))
+  with LOAD_LOCK:
+   if GRAPH is None:GRAPH=json.loads((ENGINE/'network_diy/graph_diy_poi.json').read_text(encoding='utf-8'))
  return GRAPH
+
+def warm_up():
+ # Load the ~160 MB graph in the background so the first search does not stall.
+ try:base_graph()
+ except Exception:traceback.print_exc()
 
 def map_segments(center,radius,overview=False):
  if not overview:return catalog_segments(center,radius)
@@ -84,7 +91,7 @@ class Handler(BaseHTTPRequestHandler):
   self.send_response(status);self.send_header('Content-Type',ctype);self.send_header('Content-Length',str(len(payload)));self.send_header('Cache-Control','no-store');self.send_header('X-Content-Type-Options','nosniff');self.end_headers();self.wfile.write(payload)
  def do_GET(self):
   path=urlparse(self.path).path
-  if path=='/api/health':return self.send(200,{'ok':True})
+  if path=='/api/health':return self.send(200,{'ok':True,'ready':GRAPH is not None})
   if path=='/api/bootstrap':
    try:return self.send(200,road_map(forward(110.376947373952,-7.773595801763427)))
    except Exception:traceback.print_exc();return self.send(503,{'error':'Data peta belum dapat dibaca. Periksa lokasi mesin dan data pada config.json.'})
@@ -122,6 +129,7 @@ if __name__=='__main__':
  p=argparse.ArgumentParser();p.add_argument('--open',action='store_true');args=p.parse_args()
  server=ThreadingHTTPServer(('127.0.0.1',CONFIG.get('port',8765)),Handler)
  url=f'http://127.0.0.1:{server.server_port}'
+ threading.Thread(target=warm_up,daemon=True).start()
  print('WEB SIAP: '+url,flush=True)
  if args.open:webbrowser.open(url)
  server.serve_forever()
