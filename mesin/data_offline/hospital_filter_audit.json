@@ -1,0 +1,838 @@
+[
+  {
+    "name": "RS Elisabeth",
+    "osm_url": "https://www.openstreetmap.org/relation/8527745",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RSIY PDHI",
+    "osm_url": "https://www.openstreetmap.org/way/1066702261",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Puskesmas Sentolo I",
+    "osm_url": "https://www.openstreetmap.org/way/1088969681",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Rumah Sakit Condong Catur",
+    "osm_url": "https://www.openstreetmap.org/way/1134408330",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Permata Husada",
+    "osm_url": "https://www.openstreetmap.org/way/1134739784",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RSU Mitra Paramedika",
+    "osm_url": "https://www.openstreetmap.org/way/1138796873",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Pusat Bedah Terpadu RS Sardjito",
+    "osm_url": "https://www.openstreetmap.org/way/120418961",
+    "decision": "exclude",
+    "reason": "Unit/gedung di dalam RS, bukan tujuan RS tersendiri"
+  },
+  {
+    "name": "Rumah Sakit Khusus Puri Nirmala",
+    "osm_url": "https://www.openstreetmap.org/way/120718008",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RS Jogja",
+    "osm_url": "https://www.openstreetmap.org/way/120774929",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Umum Veteran Patmasuri",
+    "osm_url": "https://www.openstreetmap.org/way/120838420",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RS PKU Muhammadiyah",
+    "osm_url": "https://www.openstreetmap.org/way/121642948",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Stroke Center RS Bethesda",
+    "osm_url": "https://www.openstreetmap.org/way/1390717368",
+    "decision": "exclude",
+    "reason": "Unit/gedung di dalam RS, bukan tujuan RS tersendiri"
+  },
+  {
+    "name": "RS THT Dr. Pomo",
+    "osm_url": "https://www.openstreetmap.org/way/188171414",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RS Panti Rini",
+    "osm_url": "https://www.openstreetmap.org/way/198739428",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Akademik UGM",
+    "osm_url": "https://www.openstreetmap.org/way/233729584",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Puskesmas Pengasih 1",
+    "osm_url": "https://www.openstreetmap.org/way/236813795",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Rumah Sakit Bethesda Lempuyangwangi",
+    "osm_url": "https://www.openstreetmap.org/way/253273884",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "(tanpa nama)",
+    "osm_url": "https://www.openstreetmap.org/way/261190301",
+    "decision": "review",
+    "reason": "Nama kosong"
+  },
+  {
+    "name": "Puskesmas Pembantu",
+    "osm_url": "https://www.openstreetmap.org/way/261194331",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Puskesmas Pembantu Desa Umbulharjo",
+    "osm_url": "https://www.openstreetmap.org/way/261200968",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Rumah Sakit Panti Rapih",
+    "osm_url": "https://www.openstreetmap.org/way/270040187",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Khusus Puri Nirmala",
+    "osm_url": "https://www.openstreetmap.org/way/273660215",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "ICC RSUP Dr. Sardjito",
+    "osm_url": "https://www.openstreetmap.org/way/337523520",
+    "decision": "exclude",
+    "reason": "Unit/gedung di dalam RS, bukan tujuan RS tersendiri"
+  },
+  {
+    "name": "Puskesmas Panjatan 2",
+    "osm_url": "https://www.openstreetmap.org/way/342903629",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Rumah Sakit PKU Muhammadiyah Gamping",
+    "osm_url": "https://www.openstreetmap.org/way/349955138",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Pengobatan Tradisional Dawasir",
+    "osm_url": "https://www.openstreetmap.org/way/362165308",
+    "decision": "review",
+    "reason": "Tidak memuat Rumah Sakit atau singkatan yang diizinkan"
+  },
+  {
+    "name": "Rumah Sakit Hermina",
+    "osm_url": "https://www.openstreetmap.org/way/362511092",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "HI-LAB Laboratorium & Klinik",
+    "osm_url": "https://www.openstreetmap.org/way/362876467",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "RS PKU muhammadiyah Sleman",
+    "osm_url": "https://www.openstreetmap.org/way/363733122",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Sub Puskesmas Mlati 2",
+    "osm_url": "https://www.openstreetmap.org/way/363969384",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "RS PARU PARU",
+    "osm_url": "https://www.openstreetmap.org/way/364887978",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RS PARU PARU",
+    "osm_url": "https://www.openstreetmap.org/way/364888110",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RSU PKU Muhammadiyah",
+    "osm_url": "https://www.openstreetmap.org/way/366465707",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "(tanpa nama)",
+    "osm_url": "https://www.openstreetmap.org/way/369024721",
+    "decision": "review",
+    "reason": "Nama kosong"
+  },
+  {
+    "name": "RS Khusus Ibu dan Anak Adinda",
+    "osm_url": "https://www.openstreetmap.org/way/374397543",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Bethesda",
+    "osm_url": "https://www.openstreetmap.org/way/377998703",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Pratama",
+    "osm_url": "https://www.openstreetmap.org/way/396468395",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RS Khusus Ibu dan Anak Kahyangan",
+    "osm_url": "https://www.openstreetmap.org/way/418521933",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RS Terpadu Penyandang Disabilitas",
+    "osm_url": "https://www.openstreetmap.org/way/447657872",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Khusus Paru Respira",
+    "osm_url": "https://www.openstreetmap.org/way/458344310",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "Puskesmas Pengasih 2",
+    "osm_url": "https://www.openstreetmap.org/way/477599497",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Rumah Sakit Bhayangkara",
+    "osm_url": "https://www.openstreetmap.org/way/491025622",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Biro Psikologi Laksita Educare Jogja",
+    "osm_url": "https://www.openstreetmap.org/way/505226943",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "RSKIA Permata Bunda",
+    "osm_url": "https://www.openstreetmap.org/way/511889439",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RSKIA PKU Muhammadiyah Kotagede",
+    "osm_url": "https://www.openstreetmap.org/way/511889458",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "Puskesmas Giripurwo",
+    "osm_url": "https://www.openstreetmap.org/way/514264630",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "RSUD Wonosari",
+    "osm_url": "https://www.openstreetmap.org/way/530314270",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RSKIA Sadewa",
+    "osm_url": "https://www.openstreetmap.org/way/530763479",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RSU Gramedika",
+    "osm_url": "https://www.openstreetmap.org/way/533314778",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Dharma",
+    "osm_url": "https://www.openstreetmap.org/way/533713529",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RSUD PRAMBANAN",
+    "osm_url": "https://www.openstreetmap.org/way/533746481",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Khusus Bedah",
+    "osm_url": "https://www.openstreetmap.org/way/535953749",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "Klinik Laras Hati",
+    "osm_url": "https://www.openstreetmap.org/way/566004091",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Puskesmas Pembantu Gulurejo",
+    "osm_url": "https://www.openstreetmap.org/way/575262947",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "RSUD Sleman",
+    "osm_url": "https://www.openstreetmap.org/way/589707391",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RSKB SINDUADI",
+    "osm_url": "https://www.openstreetmap.org/way/591454189",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Dr Soetarto",
+    "osm_url": "https://www.openstreetmap.org/way/591475169",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit JIH",
+    "osm_url": "https://www.openstreetmap.org/way/591934313",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Ludira Husada Tama",
+    "osm_url": "https://www.openstreetmap.org/way/591938608",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Khusus Bedah Soedirman",
+    "osm_url": "https://www.openstreetmap.org/way/594852354",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Bhakti Ibu",
+    "osm_url": "https://www.openstreetmap.org/way/594852413",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Khusus Bedah An-Nur",
+    "osm_url": "https://www.openstreetmap.org/way/610149135",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RS THT Dr. Pomo",
+    "osm_url": "https://www.openstreetmap.org/way/610371884",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RS THT Dr. Pomo",
+    "osm_url": "https://www.openstreetmap.org/way/610371885",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RS THT Dr. Pomo",
+    "osm_url": "https://www.openstreetmap.org/way/610371886",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RSKIA 45",
+    "osm_url": "https://www.openstreetmap.org/way/610666540",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Ibu dan Anak Fajar",
+    "osm_url": "https://www.openstreetmap.org/way/610993613",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RSKIA Rachmi",
+    "osm_url": "https://www.openstreetmap.org/way/613425525",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Universitas Ahmad Dahlan",
+    "osm_url": "https://www.openstreetmap.org/way/613598097",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Nur Hidayah",
+    "osm_url": "https://www.openstreetmap.org/way/614432401",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RS Happy Land",
+    "osm_url": "https://www.openstreetmap.org/way/616082200",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RSI Hidayatullah",
+    "osm_url": "https://www.openstreetmap.org/way/616211547",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RSUD Panembahan Senopati",
+    "osm_url": "https://www.openstreetmap.org/way/616249114",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RSKIA Ummi Khasanah",
+    "osm_url": "https://www.openstreetmap.org/way/616517916",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RSUP Dr. Sardjito",
+    "osm_url": "https://www.openstreetmap.org/way/616520162",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Umum Rachma Husada",
+    "osm_url": "https://www.openstreetmap.org/way/616862644",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Umum Queen Latifa",
+    "osm_url": "https://www.openstreetmap.org/way/616883613",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RS Sakina Idaman",
+    "osm_url": "https://www.openstreetmap.org/way/617106472",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Rajawali Citra",
+    "osm_url": "https://www.openstreetmap.org/way/619125299",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Medika Respati",
+    "osm_url": "https://www.openstreetmap.org/way/620278791",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RS Puri Husada",
+    "osm_url": "https://www.openstreetmap.org/way/620520051",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RSU PANTI BAKTININGSIH",
+    "osm_url": "https://www.openstreetmap.org/way/620520372",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit Jiwa Grhasia",
+    "osm_url": "https://www.openstreetmap.org/way/620526505",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RS Panti Nugroho",
+    "osm_url": "https://www.openstreetmap.org/way/620543767",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Rumah Sakit At-Turots Al-Islamy",
+    "osm_url": "https://www.openstreetmap.org/way/620578145",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RS Universitas Islam Indonesia",
+    "osm_url": "https://www.openstreetmap.org/way/722721176",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RS Mata Dr. Yap",
+    "osm_url": "https://www.openstreetmap.org/way/778464130",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "RSPAU dr. S. Hardjolukito",
+    "osm_url": "https://www.openstreetmap.org/way/783886543",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RSUD Wates",
+    "osm_url": "https://www.openstreetmap.org/way/787848227",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "(tanpa nama)",
+    "osm_url": "https://www.openstreetmap.org/way/866190493",
+    "decision": "review",
+    "reason": "Nama kosong"
+  },
+  {
+    "name": "Puskesmas Kokap II",
+    "osm_url": "https://www.openstreetmap.org/way/886227367",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Puskesmas Kecamatan Rongkop",
+    "osm_url": "https://www.openstreetmap.org/way/993605554",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Rumah Sakit Universitas Islam Indonesia",
+    "osm_url": "https://www.openstreetmap.org/node/10705747215",
+    "decision": "duplicate",
+    "reason": "Nama setara (termasuk alias PKU Gamping) dan jarak <=250 m",
+    "merged_into": "https://www.openstreetmap.org/way/722721176",
+    "distance_m": 3.75
+  },
+  {
+    "name": "RSH IN CARE (Rumah Sehat Holistik) - Bekam Jogja",
+    "osm_url": "https://www.openstreetmap.org/node/10720341447",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "grahita indonesia jogja",
+    "osm_url": "https://www.openstreetmap.org/node/11874507249",
+    "decision": "review",
+    "reason": "Tidak memuat Rumah Sakit atau singkatan yang diizinkan"
+  },
+  {
+    "name": "PSIKOLOGI PARADIGMA",
+    "osm_url": "https://www.openstreetmap.org/node/11875080903",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Arkandina",
+    "osm_url": "https://www.openstreetmap.org/node/11875158121",
+    "decision": "review",
+    "reason": "Tidak memuat Rumah Sakit atau singkatan yang diizinkan"
+  },
+  {
+    "name": "Lembaga Psikologi Terapan DELTA",
+    "osm_url": "https://www.openstreetmap.org/node/11875160993",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Praktik Psikolog Nadia",
+    "osm_url": "https://www.openstreetmap.org/node/11875162815",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Humaira Consulting (Konsultan Psikologi)",
+    "osm_url": "https://www.openstreetmap.org/node/11875177363",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "ABHIPRAYA CENTER (Biro Psikologi Abhipraya)",
+    "osm_url": "https://www.openstreetmap.org/node/11875180126",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "RUMAH NGOBROL BUNDA WENING",
+    "osm_url": "https://www.openstreetmap.org/node/11875182883",
+    "decision": "review",
+    "reason": "Tidak memuat Rumah Sakit atau singkatan yang diizinkan"
+  },
+  {
+    "name": "Biro Konsultasi Psikologi PARIPURNA Yogyakarta",
+    "osm_url": "https://www.openstreetmap.org/node/11875191688",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Biro Psikologi Metamorfosa",
+    "osm_url": "https://www.openstreetmap.org/node/11875197527",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "NMM Konsultan Psikologi Kulon Progo",
+    "osm_url": "https://www.openstreetmap.org/node/11875198704",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "PUSKESMAS BANGUNTAPAN",
+    "osm_url": "https://www.openstreetmap.org/node/11919849132",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Rumah Sakit Khusus Bedah (RSKB) Sinduadi",
+    "osm_url": "https://www.openstreetmap.org/node/12298790416",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "DKT",
+    "osm_url": "https://www.openstreetmap.org/node/12846795692",
+    "decision": "review",
+    "reason": "Tidak memuat Rumah Sakit atau singkatan yang diizinkan"
+  },
+  {
+    "name": "Rumah Sakit Panti Rahayu",
+    "osm_url": "https://www.openstreetmap.org/node/12866255147",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Gedung Stella Maris RS Panti Rahayu",
+    "osm_url": "https://www.openstreetmap.org/node/12866255156",
+    "decision": "exclude",
+    "reason": "Unit/gedung di dalam RS, bukan tujuan RS tersendiri"
+  },
+  {
+    "name": "RS PKU Muhamadiyah Nanggulan",
+    "osm_url": "https://www.openstreetmap.org/node/13666888628",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Apotek Al Fazza Farma",
+    "osm_url": "https://www.openstreetmap.org/node/13797523559",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "RSUD Sleman",
+    "osm_url": "https://www.openstreetmap.org/node/13797621007",
+    "decision": "duplicate",
+    "reason": "Nama setara (termasuk alias PKU Gamping) dan jarak <=250 m",
+    "merged_into": "https://www.openstreetmap.org/way/589707391",
+    "distance_m": 27.5
+  },
+  {
+    "name": "Apotek K-24 Babarsari",
+    "osm_url": "https://www.openstreetmap.org/node/13797624672",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Apotek K24",
+    "osm_url": "https://www.openstreetmap.org/node/13797654475",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "RS Muhammadiyah Gamping",
+    "osm_url": "https://www.openstreetmap.org/node/13800401439",
+    "decision": "duplicate",
+    "reason": "Nama setara (termasuk alias PKU Gamping) dan jarak <=250 m",
+    "merged_into": "https://www.openstreetmap.org/way/349955138",
+    "distance_m": 105.49
+  },
+  {
+    "name": "Klinik SWA",
+    "osm_url": "https://www.openstreetmap.org/node/13800429689",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Puskesmas Jetis",
+    "osm_url": "https://www.openstreetmap.org/node/13800462730",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "RSUD Saedjito",
+    "osm_url": "https://www.openstreetmap.org/node/13822872312",
+    "decision": "review",
+    "reason": "Kemungkinan salah nama/duplikat RSUP Dr. Sardjito; tidak digabung otomatis"
+  },
+  {
+    "name": "RS Gigi dan Mulut UGM Prof. Soedomo",
+    "osm_url": "https://www.openstreetmap.org/node/13822874465",
+    "decision": "exclude",
+    "reason": "Nama menunjukkan RS khusus"
+  },
+  {
+    "name": "Puskesmas Bambanglipuro",
+    "osm_url": "https://www.openstreetmap.org/node/13826375702",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Blackbox Gym",
+    "osm_url": "https://www.openstreetmap.org/node/13849114497",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "OXYGYM",
+    "osm_url": "https://www.openstreetmap.org/node/13849143113",
+    "decision": "review",
+    "reason": "Tidak memuat Rumah Sakit atau singkatan yang diizinkan"
+  },
+  {
+    "name": "Puskesmas Piyungan",
+    "osm_url": "https://www.openstreetmap.org/node/1836618291",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Klinik Adhiwarga PKBI DIY",
+    "osm_url": "https://www.openstreetmap.org/node/2631261031",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Rahma Husada",
+    "osm_url": "https://www.openstreetmap.org/node/2651174542",
+    "decision": "review",
+    "reason": "Tidak memuat Rumah Sakit atau singkatan yang diizinkan"
+  },
+  {
+    "name": "Puskesmas Girimulyo 2",
+    "osm_url": "https://www.openstreetmap.org/node/3377375693",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Puskesmas Galur II",
+    "osm_url": "https://www.openstreetmap.org/node/3428139821",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "RS Rajawali Citra",
+    "osm_url": "https://www.openstreetmap.org/node/3724392322",
+    "decision": "duplicate",
+    "reason": "Nama setara (termasuk alias PKU Gamping) dan jarak <=250 m",
+    "merged_into": "https://www.openstreetmap.org/way/619125299",
+    "distance_m": 30.9
+  },
+  {
+    "name": "apotek kimia farma",
+    "osm_url": "https://www.openstreetmap.org/node/4114148391",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "condong catur apotik",
+    "osm_url": "https://www.openstreetmap.org/node/4590296608",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Puskesmas Giripurwo",
+    "osm_url": "https://www.openstreetmap.org/node/5024644440",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Apotek Jongkang",
+    "osm_url": "https://www.openstreetmap.org/node/5251324939",
+    "decision": "exclude",
+    "reason": "Fasilitas selain rumah sakit umum"
+  },
+  {
+    "name": "Rumah Sakit Siloam Yogyakarta",
+    "osm_url": "https://www.openstreetmap.org/node/7331641864",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "RS Nurrohmah",
+    "osm_url": "https://www.openstreetmap.org/node/8385985634",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "Health Architecture Center",
+    "osm_url": "https://www.openstreetmap.org/node/9233361241",
+    "decision": "review",
+    "reason": "Tidak memuat Rumah Sakit atau singkatan yang diizinkan"
+  },
+  {
+    "name": "RSU Pelita Husada",
+    "osm_url": "https://www.openstreetmap.org/node/9751906945",
+    "decision": "include",
+    "reason": "Lolos filter nama RS dan tidak berindikasi RS khusus"
+  },
+  {
+    "name": "ICU RSUP Dr. Sardjito",
+    "osm_url": "https://www.openstreetmap.org/node/9837629180",
+    "decision": "exclude",
+    "reason": "Unit/gedung di dalam RS, bukan tujuan RS tersendiri"
+  }
+]

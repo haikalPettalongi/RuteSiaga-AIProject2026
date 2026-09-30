@@ -1,0 +1,92 @@
+{
+  "nodes": 169944,
+  "directed_edges": 330774,
+  "goals": 44,
+  "poi_objects": {
+    "school": 1871,
+    "market": 376,
+    "mall": 20
+  },
+  "edge_counts": {
+    "at_grade_edges": 327674,
+    "school_exposed_edges": 17118,
+    "market_exposed_edges": 7652,
+    "grade_separated_edges_excluded": 3100,
+    "mall_exposed_edges": 1019
+  },
+  "scenario_stats": {
+    "pagi": {
+      "positive_poi_edges": 24323,
+      "max_poi_s": 97.91655009097849
+    },
+    "siang": {
+      "positive_poi_edges": 24323,
+      "max_poi_s": 65.27770006065234
+    },
+    "sore": {
+      "positive_poi_edges": 24323,
+      "max_poi_s": 60.52388857481064
+    },
+    "malam": {
+      "positive_poi_edges": 8426,
+      "max_poi_s": 23.38332791983608
+    }
+  },
+  "parameters": {
+    "radii_m": {
+      "school": 100,
+      "market": 150,
+      "mall": 200
+    },
+    "poi_seconds_per_100m": {
+      "school": [
+        20,
+        15,
+        5,
+        0
+      ],
+      "market": [
+        30,
+        20,
+        15,
+        5
+      ],
+      "mall": [
+        5,
+        15,
+        25,
+        10
+      ]
+    },
+    "signal_seconds": [
+      35,
+      25,
+      40,
+      15
+    ],
+    "rail_seconds": [
+      45,
+      30,
+      45,
+      20
+    ],
+    "scenario_order": [
+      "pagi",
+      "siang",
+      "sore",
+      "malam"
+    ],
+    "overlap_policy": "union within category; sum across categories",
+    "grade_separation_policy": "bridge/tunnel edge segments get zero POI exposure",
+    "geometry_units": "EPSG:32749 meters",
+    "buffer_quad_segs": 32
+  },
+  "validation": "all exposures within edge length, all scenario costs finite positive and >= geometric lower bound",
+  "limitations": [
+    "POIs and their footprints depend on OSM completeness",
+    "Overlapping categories may represent shared congestion; not calibrated",
+    "Bridge/tunnel exclusion is coarse and does not resolve all physical separation",
+    "Signal/rail physical-event deduplication remains pending",
+    "Frozen departure-time weekday scenario; not dynamic traffic"
+  ]
+}

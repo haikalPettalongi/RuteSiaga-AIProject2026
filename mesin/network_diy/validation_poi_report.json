@@ -1,0 +1,523 @@
+{
+  "passed": true,
+  "query_pairs": 56,
+  "search_runs": 112,
+  "oracle": "NetworkX reverse multi-source Dijkstra on independently constructed incoming-edge state graph",
+  "seed": 20260922,
+  "unreachable_queries": 8,
+  "checks": [
+    "allowed highway and access policy",
+    "oneway including reverse and roundabout",
+    "positive metric segment lengths",
+    "endpoint references",
+    "turn-valid paths",
+    "cost equality with independent oracle"
+  ],
+  "cost_limit": "base + POI exposure + signal/rail node priors; static weekday scenarios, not calibrated",
+  "results": [
+    {
+      "scenario": "pagi",
+      "start": "6314621971",
+      "expected_s": 3063.6538091113516,
+      "ucs_ms": 215.3624000493437,
+      "astar_ms": 342.5333999330178,
+      "ucs_states": 34312,
+      "astar_states": 20403
+    },
+    {
+      "scenario": "pagi",
+      "start": "2203025754",
+      "expected_s": null,
+      "ucs_ms": 0.17010001465678215,
+      "astar_ms": 0.371999922208488,
+      "ucs_states": 29,
+      "astar_states": 29
+    },
+    {
+      "scenario": "pagi",
+      "start": "7349844992",
+      "expected_s": 998.486312270372,
+      "ucs_ms": 25.834099971689284,
+      "astar_ms": 47.438800102099776,
+      "ucs_states": 5495,
+      "astar_states": 3101
+    },
+    {
+      "scenario": "pagi",
+      "start": "10717942946",
+      "expected_s": 81.03829862828763,
+      "ucs_ms": 0.48379995860159397,
+      "astar_ms": 0.6934000412002206,
+      "ucs_states": 100,
+      "astar_states": 42
+    },
+    {
+      "scenario": "pagi",
+      "start": "7362098274",
+      "expected_s": 2302.916713657532,
+      "ucs_ms": 127.86440004128963,
+      "astar_ms": 231.26949998550117,
+      "ucs_states": 25479,
+      "astar_states": 13008
+    },
+    {
+      "scenario": "pagi",
+      "start": "1720135513",
+      "expected_s": 85.73631086298764,
+      "ucs_ms": 0.8363000815734267,
+      "astar_ms": 2.1934000542387366,
+      "ucs_states": 109,
+      "astar_states": 61
+    },
+    {
+      "scenario": "pagi",
+      "start": "7453005073",
+      "expected_s": 1112.8773506169794,
+      "ucs_ms": 47.55469993688166,
+      "astar_ms": 54.00640005245805,
+      "ucs_states": 8423,
+      "astar_states": 3810
+    },
+    {
+      "scenario": "pagi",
+      "start": "9801193737",
+      "expected_s": null,
+      "ucs_ms": 0.04469999112188816,
+      "astar_ms": 0.19689998589456081,
+      "ucs_states": 10,
+      "astar_states": 10
+    },
+    {
+      "scenario": "pagi",
+      "start": "7379467725",
+      "expected_s": 1823.4836328746114,
+      "ucs_ms": 67.85539991687983,
+      "astar_ms": 96.39409999363124,
+      "ucs_states": 15044,
+      "astar_states": 6830
+    },
+    {
+      "scenario": "pagi",
+      "start": "12453021243",
+      "expected_s": 1798.7348761149224,
+      "ucs_ms": 107.70699998829514,
+      "astar_ms": 214.63809988927096,
+      "ucs_states": 21849,
+      "astar_states": 13118
+    },
+    {
+      "scenario": "pagi",
+      "start": "1603678660",
+      "expected_s": 171.05960227526015,
+      "ucs_ms": 0.6703999824821949,
+      "astar_ms": 0.9181000059470534,
+      "ucs_states": 161,
+      "astar_states": 61
+    },
+    {
+      "scenario": "pagi",
+      "start": "7551118738",
+      "expected_s": 818.4670865966286,
+      "ucs_ms": 22.53810002002865,
+      "astar_ms": 39.366599987261,
+      "ucs_states": 4365,
+      "astar_states": 2601
+    },
+    {
+      "scenario": "pagi",
+      "start": "10445486532",
+      "expected_s": 0,
+      "ucs_ms": 0.013599987141788006,
+      "astar_ms": 0.031499890610575676,
+      "ucs_states": 1,
+      "astar_states": 1
+    },
+    {
+      "scenario": "pagi",
+      "start": "10537041885",
+      "expected_s": 0,
+      "ucs_ms": 0.004500034265220165,
+      "astar_ms": 0.02129992935806513,
+      "ucs_states": 1,
+      "astar_states": 1
+    },
+    {
+      "scenario": "siang",
+      "start": "6314621971",
+      "expected_s": 2971.524727087805,
+      "ucs_ms": 211.73219999764115,
+      "astar_ms": 355.6574999820441,
+      "ucs_states": 33779,
+      "astar_states": 19185
+    },
+    {
+      "scenario": "siang",
+      "start": "2203025754",
+      "expected_s": null,
+      "ucs_ms": 0.5540999118238688,
+      "astar_ms": 1.080599962733686,
+      "ucs_states": 29,
+      "astar_states": 29
+    },
+    {
+      "scenario": "siang",
+      "start": "7349844992",
+      "expected_s": 957.5078573639654,
+      "ucs_ms": 25.6170000648126,
+      "astar_ms": 58.01789998076856,
+      "ucs_states": 5128,
+      "astar_states": 2894
+    },
+    {
+      "scenario": "siang",
+      "start": "10717942946",
+      "expected_s": 70.40212982992452,
+      "ucs_ms": 1.3526000548154116,
+      "astar_ms": 3.453100100159645,
+      "ucs_states": 100,
+      "astar_states": 41
+    },
+    {
+      "scenario": "siang",
+      "start": "7362098274",
+      "expected_s": 2292.916713657532,
+      "ucs_ms": 143.59580003656447,
+      "astar_ms": 213.66269991267473,
+      "ucs_states": 25954,
+      "astar_states": 13053
+    },
+    {
+      "scenario": "siang",
+      "start": "1720135513",
+      "expected_s": 134.96019709400144,
+      "ucs_ms": 0.824799994006753,
+      "astar_ms": 1.977299922145903,
+      "ucs_states": 187,
+      "astar_states": 77
+    },
+    {
+      "scenario": "siang",
+      "start": "7453005073",
+      "expected_s": 1102.8773506169794,
+      "ucs_ms": 39.60470005404204,
+      "astar_ms": 60.13110000640154,
+      "ucs_states": 8359,
+      "astar_states": 3758
+    },
+    {
+      "scenario": "siang",
+      "start": "9801193737",
+      "expected_s": null,
+      "ucs_ms": 0.060999998822808266,
+      "astar_ms": 0.36559998989105225,
+      "ucs_states": 10,
+      "astar_states": 10
+    },
+    {
+      "scenario": "siang",
+      "start": "7379467725",
+      "expected_s": 1710.2574568965008,
+      "ucs_ms": 91.39549999963492,
+      "astar_ms": 98.04950002580881,
+      "ucs_states": 15310,
+      "astar_states": 6384
+    },
+    {
+      "scenario": "siang",
+      "start": "12453021243",
+      "expected_s": 1667.4971266918603,
+      "ucs_ms": 97.95229998417199,
+      "astar_ms": 177.78830009046942,
+      "ucs_states": 19932,
+      "astar_states": 10945
+    },
+    {
+      "scenario": "siang",
+      "start": "1603678660",
+      "expected_s": 171.05960227526015,
+      "ucs_ms": 0.9313999908044934,
+      "astar_ms": 0.911800074391067,
+      "ucs_states": 167,
+      "astar_states": 61
+    },
+    {
+      "scenario": "siang",
+      "start": "7551118738",
+      "expected_s": 754.7060936846232,
+      "ucs_ms": 21.86700003221631,
+      "astar_ms": 37.61630004737526,
+      "ucs_states": 4067,
+      "astar_states": 2240
+    },
+    {
+      "scenario": "siang",
+      "start": "10445486532",
+      "expected_s": 0,
+      "ucs_ms": 0.014399993233382702,
+      "astar_ms": 0.05170004442334175,
+      "ucs_states": 1,
+      "astar_states": 1
+    },
+    {
+      "scenario": "siang",
+      "start": "10537041885",
+      "expected_s": 0,
+      "ucs_ms": 0.010899966582655907,
+      "astar_ms": 0.027799978852272034,
+      "ucs_states": 1,
+      "astar_states": 1
+    },
+    {
+      "scenario": "sore",
+      "start": "6314621971",
+      "expected_s": 2921.246995367046,
+      "ucs_ms": 183.9132000459358,
+      "astar_ms": 414.6814999403432,
+      "ucs_states": 33661,
+      "astar_states": 18516
+    },
+    {
+      "scenario": "sore",
+      "start": "2203025754",
+      "expected_s": null,
+      "ucs_ms": 0.12890005018562078,
+      "astar_ms": 0.37350005004554987,
+      "ucs_states": 29,
+      "astar_states": 29
+    },
+    {
+      "scenario": "sore",
+      "start": "7349844992",
+      "expected_s": 875.550947551152,
+      "ucs_ms": 20.834000082686543,
+      "astar_ms": 35.285199992358685,
+      "ucs_states": 4617,
+      "astar_states": 2528
+    },
+    {
+      "scenario": "sore",
+      "start": "10717942946",
+      "expected_s": 49.1297922331983,
+      "ucs_ms": 0.1781000755727291,
+      "astar_ms": 0.49629993736743927,
+      "ucs_states": 34,
+      "astar_states": 27
+    },
+    {
+      "scenario": "sore",
+      "start": "7362098274",
+      "expected_s": 2307.9167136575325,
+      "ucs_ms": 128.53520002681762,
+      "astar_ms": 209.3720999546349,
+      "ucs_states": 25806,
+      "astar_states": 13386
+    },
+    {
+      "scenario": "sore",
+      "start": "1720135513",
+      "expected_s": 184.18408332501517,
+      "ucs_ms": 1.0507999686524272,
+      "astar_ms": 2.7902000583708286,
+      "ucs_states": 241,
+      "astar_states": 125
+    },
+    {
+      "scenario": "sore",
+      "start": "7453005073",
+      "expected_s": 1117.8773506169794,
+      "ucs_ms": 36.694200010970235,
+      "astar_ms": 65.09769998956472,
+      "ucs_states": 8675,
+      "astar_states": 3933
+    },
+    {
+      "scenario": "sore",
+      "start": "9801193737",
+      "expected_s": null,
+      "ucs_ms": 0.04979991354048252,
+      "astar_ms": 0.20679994486272335,
+      "ucs_states": 10,
+      "astar_states": 10
+    },
+    {
+      "scenario": "sore",
+      "start": "7379467725",
+      "expected_s": 1677.4569470016534,
+      "ucs_ms": 75.88110002689064,
+      "astar_ms": 97.81589999329299,
+      "ucs_states": 14211,
+      "astar_states": 5953
+    },
+    {
+      "scenario": "sore",
+      "start": "12453021243",
+      "expected_s": 1567.8019668113936,
+      "ucs_ms": 86.60819998476654,
+      "astar_ms": 135.33710001502186,
+      "ucs_states": 17995,
+      "astar_states": 8852
+    },
+    {
+      "scenario": "sore",
+      "start": "1603678660",
+      "expected_s": 171.05960227526015,
+      "ucs_ms": 0.672800000756979,
+      "astar_ms": 0.8046000730246305,
+      "ucs_states": 170,
+      "astar_states": 61
+    },
+    {
+      "scenario": "sore",
+      "start": "7551118738",
+      "expected_s": 705.3797731970546,
+      "ucs_ms": 17.599500017240644,
+      "astar_ms": 28.281199978664517,
+      "ucs_states": 3736,
+      "astar_states": 1977
+    },
+    {
+      "scenario": "sore",
+      "start": "10445486532",
+      "expected_s": 0,
+      "ucs_ms": 0.0097999582067132,
+      "astar_ms": 0.02619996666908264,
+      "ucs_states": 1,
+      "astar_states": 1
+    },
+    {
+      "scenario": "sore",
+      "start": "10537041885",
+      "expected_s": 0,
+      "ucs_ms": 0.0039000296965241432,
+      "astar_ms": 0.021000043489038944,
+      "ucs_states": 1,
+      "astar_states": 1
+    },
+    {
+      "scenario": "malam",
+      "start": "6314621971",
+      "expected_s": 2805.5067292878907,
+      "ucs_ms": 234.54919992946088,
+      "astar_ms": 335.60589991975576,
+      "ucs_states": 32655,
+      "astar_states": 16564
+    },
+    {
+      "scenario": "malam",
+      "start": "2203025754",
+      "expected_s": null,
+      "ucs_ms": 0.15660002827644348,
+      "astar_ms": 0.4450000124052167,
+      "ucs_states": 29,
+      "astar_states": 29
+    },
+    {
+      "scenario": "malam",
+      "start": "7349844992",
+      "expected_s": 834.5724926447457,
+      "ucs_ms": 20.997999934479594,
+      "astar_ms": 38.16420002840459,
+      "ucs_states": 4399,
+      "astar_states": 2419
+    },
+    {
+      "scenario": "malam",
+      "start": "10717942946",
+      "expected_s": 38.49362343483518,
+      "ucs_ms": 0.32819993793964386,
+      "astar_ms": 0.6564999930560589,
+      "ucs_states": 52,
+      "astar_states": 26
+    },
+    {
+      "scenario": "malam",
+      "start": "7362098274",
+      "expected_s": 2282.916713657532,
+      "ucs_ms": 136.03210006840527,
+      "astar_ms": 212.00019994284958,
+      "ucs_states": 26853,
+      "astar_states": 13741
+    },
+    {
+      "scenario": "malam",
+      "start": "1720135513",
+      "expected_s": 110.34825397849454,
+      "ucs_ms": 0.9775999933481216,
+      "astar_ms": 1.514800009317696,
+      "ucs_states": 149,
+      "astar_states": 74
+    },
+    {
+      "scenario": "malam",
+      "start": "7453005073",
+      "expected_s": 1092.8773506169796,
+      "ucs_ms": 41.771800024434924,
+      "astar_ms": 62.48970003798604,
+      "ucs_states": 8405,
+      "astar_states": 3793
+    },
+    {
+      "scenario": "malam",
+      "start": "9801193737",
+      "expected_s": null,
+      "ucs_ms": 0.046900007873773575,
+      "astar_ms": 0.20370003767311573,
+      "ucs_states": 10,
+      "astar_states": 10
+    },
+    {
+      "scenario": "malam",
+      "start": "7379467725",
+      "expected_s": 1504.2307710235432,
+      "ucs_ms": 69.93070000316948,
+      "astar_ms": 85.85020003374666,
+      "ucs_states": 14756,
+      "astar_states": 5355
+    },
+    {
+      "scenario": "malam",
+      "start": "12453021243",
+      "expected_s": 1428.2108279413158,
+      "ucs_ms": 87.97750005032867,
+      "astar_ms": 114.38110005110502,
+      "ucs_states": 16950,
+      "astar_states": 6807
+    },
+    {
+      "scenario": "malam",
+      "start": "1603678660",
+      "expected_s": 171.05960227526015,
+      "ucs_ms": 0.7564000552520156,
+      "astar_ms": 0.8151000365614891,
+      "ucs_states": 175,
+      "astar_states": 61
+    },
+    {
+      "scenario": "malam",
+      "start": "7551118738",
+      "expected_s": 641.6187802850488,
+      "ucs_ms": 17.27549999486655,
+      "astar_ms": 26.391100022010505,
+      "ucs_states": 3345,
+      "astar_states": 1596
+    },
+    {
+      "scenario": "malam",
+      "start": "10445486532",
+      "expected_s": 0,
+      "ucs_ms": 0.016900012269616127,
+      "astar_ms": 0.034800032153725624,
+      "ucs_states": 1,
+      "astar_states": 1
+    },
+    {
+      "scenario": "malam",
+      "start": "10537041885",
+      "expected_s": 0,
+      "ucs_ms": 0.004500034265220165,
+      "astar_ms": 0.02150004729628563,
+      "ucs_states": 1,
+      "astar_states": 1
+    }
+  ]
+}

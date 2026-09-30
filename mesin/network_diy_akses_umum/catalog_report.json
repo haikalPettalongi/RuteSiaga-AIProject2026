@@ -1,0 +1,15 @@
+{
+  "source": "C:\\Users\\LENOVO\\Downloads\\java-260920.osm.pbf",
+  "source_bytes": 896987462,
+  "segments": 1252641,
+  "stats": {
+    "usable_segments": 1248723,
+    "blocked_segments": 3918
+  },
+  "region": "DIY + 10km buffer",
+  "policy": "missing width allowed for origin access only; service except excluded subtypes; all explicit dimensions/access/direction rules preserved",
+  "confirmed_gate": "13321512874",
+  "gate_policy": "explicit motor-vehicle permission required; no/private/locked/unknown gates excluded; allowed gate arrival adds assumed 10 seconds, confirmed Grafika gate 0 seconds",
+  "schema_version": 2,
+  "coordinate_crs": "EPSG:32749"
+}

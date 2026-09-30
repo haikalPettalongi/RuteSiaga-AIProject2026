@@ -1,0 +1,16 @@
+{
+  "source": "C:\\Users\\LENOVO\\Downloads\\java-260920.osm.pbf",
+  "bytes": 896987462,
+  "boundary_osm_relation": 5616105,
+  "osm_hospital_objects_java": 2097,
+  "candidate_objects_diy": 138,
+  "unresolved_objects_java": 0,
+  "verified_igd": 0,
+  "limitations": [
+    "OSM candidates are not an official complete hospital list",
+    "Node/way/relation duplicates not merged",
+    "Representative coordinates are not IGD entrances",
+    "Region membership uses mapped vertices; border features need review"
+  ],
+  "validation": "All three sequential PBF reads reached EOF; compressed blocks decoded and lengths checked"
+}

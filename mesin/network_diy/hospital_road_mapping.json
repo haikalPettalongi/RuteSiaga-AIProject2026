@@ -1,0 +1,602 @@
+[
+  {
+    "name": "RS Elisabeth",
+    "osm_url": "https://www.openstreetmap.org/relation/8527745",
+    "hospital_lonlat": [
+      110.31860657812501,
+      -7.925673503125
+    ],
+    "road_node": "492167697",
+    "gap_m": 140.02,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RS Happy Land",
+    "osm_url": "https://www.openstreetmap.org/way/616082200",
+    "hospital_lonlat": [
+      110.39211585,
+      -7.7939498333333335
+    ],
+    "road_node": "8752959306",
+    "gap_m": 93.26,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RS Jogja",
+    "osm_url": "https://www.openstreetmap.org/way/120774929",
+    "hospital_lonlat": [
+      110.37831078000002,
+      -7.82608496
+    ],
+    "road_node": "5608758682",
+    "gap_m": 67.26,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RS Nurrohmah",
+    "osm_url": "https://www.openstreetmap.org/node/8385985634",
+    "hospital_lonlat": [
+      110.56147650000001,
+      -7.922417500000001
+    ],
+    "road_node": "275846395",
+    "gap_m": 29.76,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RS Panti Nugroho",
+    "osm_url": "https://www.openstreetmap.org/way/620543767",
+    "hospital_lonlat": [
+      110.41702068965517,
+      -7.66866671724138
+    ],
+    "road_node": "3671202913",
+    "gap_m": 67.02,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RS Panti Rini",
+    "osm_url": "https://www.openstreetmap.org/way/198739428",
+    "hospital_lonlat": [
+      110.4663881,
+      -7.771625757142857
+    ],
+    "road_node": "10445486532",
+    "gap_m": 99.27,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RS PKU Muhamadiyah Nanggulan",
+    "osm_url": "https://www.openstreetmap.org/node/13666888628",
+    "hospital_lonlat": [
+      110.2128813,
+      -7.7539435
+    ],
+    "road_node": "3670258733",
+    "gap_m": 43.36,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RS PKU Muhammadiyah",
+    "osm_url": "https://www.openstreetmap.org/way/121642948",
+    "hospital_lonlat": [
+      110.36242451250001,
+      -7.800798400000001
+    ],
+    "road_node": "8437204909",
+    "gap_m": 46.59,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RS PKU muhammadiyah Sleman",
+    "osm_url": "https://www.openstreetmap.org/way/363733122",
+    "hospital_lonlat": [
+      110.35797535,
+      -7.709467775
+    ],
+    "road_node": "8468025673",
+    "gap_m": 50.36,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RS Puri Husada",
+    "osm_url": "https://www.openstreetmap.org/way/620520051",
+    "hospital_lonlat": [
+      110.38645182500001,
+      -7.705810275000001
+    ],
+    "road_node": "6806058764",
+    "gap_m": 49.29,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RS Sakina Idaman",
+    "osm_url": "https://www.openstreetmap.org/way/617106472",
+    "hospital_lonlat": [
+      110.36790130000001,
+      -7.767637283333333
+    ],
+    "road_node": "7561576082",
+    "gap_m": 45.21,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RS Universitas Islam Indonesia",
+    "osm_url": "https://www.openstreetmap.org/way/722721176",
+    "hospital_lonlat": [
+      110.29587655,
+      -7.9091965
+    ],
+    "road_node": "5601099577",
+    "gap_m": 89.66,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSI Hidayatullah",
+    "osm_url": "https://www.openstreetmap.org/way/616211547",
+    "hospital_lonlat": [
+      110.38777586666667,
+      -7.81503325
+    ],
+    "road_node": "9166710353",
+    "gap_m": 59.59,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSIY PDHI",
+    "osm_url": "https://www.openstreetmap.org/way/1066702261",
+    "hospital_lonlat": [
+      110.45886884736844,
+      -7.77576772631579
+    ],
+    "road_node": "5616374622",
+    "gap_m": 122.2,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSPAU dr. S. Hardjolukito",
+    "osm_url": "https://www.openstreetmap.org/way/783886543",
+    "hospital_lonlat": [
+      110.41163158571429,
+      -7.797581271428571
+    ],
+    "road_node": "4936971444",
+    "gap_m": 115.26,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSU Gramedika",
+    "osm_url": "https://www.openstreetmap.org/way/533314778",
+    "hospital_lonlat": [
+      110.41698585,
+      -7.7014093
+    ],
+    "road_node": "5623995163",
+    "gap_m": 36.06,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSU Mitra Paramedika",
+    "osm_url": "https://www.openstreetmap.org/way/1138796873",
+    "hospital_lonlat": [
+      110.44818587500001,
+      -7.714069725
+    ],
+    "road_node": "275863247",
+    "gap_m": 48.98,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSU PANTI BAKTININGSIH",
+    "osm_url": "https://www.openstreetmap.org/way/620520372",
+    "hospital_lonlat": [
+      110.24235443333333,
+      -7.755199777777779
+    ],
+    "road_node": "2291214097",
+    "gap_m": 103.79,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSU Pelita Husada",
+    "osm_url": "https://www.openstreetmap.org/node/9751906945",
+    "hospital_lonlat": [
+      110.63204520000001,
+      -7.989143200000001
+    ],
+    "road_node": "6813410290",
+    "gap_m": 39.31,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSU PKU Muhammadiyah",
+    "osm_url": "https://www.openstreetmap.org/way/366465707",
+    "hospital_lonlat": [
+      110.33040203333333,
+      -7.8869772750000005
+    ],
+    "road_node": "3630751724",
+    "gap_m": 44.17,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSUD Panembahan Senopati",
+    "osm_url": "https://www.openstreetmap.org/way/616249114",
+    "hospital_lonlat": [
+      110.3378782909091,
+      -7.892049477272727
+    ],
+    "road_node": "7516981826",
+    "gap_m": 59.59,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSUD PRAMBANAN",
+    "osm_url": "https://www.openstreetmap.org/way/533746481",
+    "hospital_lonlat": [
+      110.4832671,
+      -7.80471135
+    ],
+    "road_node": "9787425957",
+    "gap_m": 47.89,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSUD Sleman",
+    "osm_url": "https://www.openstreetmap.org/way/589707391",
+    "hospital_lonlat": [
+      110.34246243333335,
+      -7.687211191666667
+    ],
+    "road_node": "7517281969",
+    "gap_m": 80.8,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSUD Wates",
+    "osm_url": "https://www.openstreetmap.org/way/787848227",
+    "hospital_lonlat": [
+      110.14703286153848,
+      -7.860401588461539
+    ],
+    "road_node": "7477888391",
+    "gap_m": 240.35,
+    "status": "requires_review",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSUD Wonosari",
+    "osm_url": "https://www.openstreetmap.org/way/530314270",
+    "hospital_lonlat": [
+      110.60392677727273,
+      -7.961788100000001
+    ],
+    "road_node": "1466353376",
+    "gap_m": 90.56,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "RSUP Dr. Sardjito",
+    "osm_url": "https://www.openstreetmap.org/way/616520162",
+    "hospital_lonlat": [
+      110.37219008301888,
+      -7.768800526415094
+    ],
+    "road_node": "13411740958",
+    "gap_m": 173.13,
+    "status": "requires_review",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Akademik UGM",
+    "osm_url": "https://www.openstreetmap.org/way/233729584",
+    "hospital_lonlat": [
+      110.35020023125,
+      -7.7433630625
+    ],
+    "road_node": "2930657887",
+    "gap_m": 105.03,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit At-Turots Al-Islamy",
+    "osm_url": "https://www.openstreetmap.org/way/620578145",
+    "hospital_lonlat": [
+      110.29392030000001,
+      -7.750449850000001
+    ],
+    "road_node": "5595561957",
+    "gap_m": 27.92,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Bethesda",
+    "osm_url": "https://www.openstreetmap.org/way/377998703",
+    "hospital_lonlat": [
+      110.37773841111112,
+      -7.78380251388889
+    ],
+    "road_node": "13356199665",
+    "gap_m": 90.07,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Bethesda Lempuyangwangi",
+    "osm_url": "https://www.openstreetmap.org/way/253273884",
+    "hospital_lonlat": [
+      110.37306201000001,
+      -7.79641671
+    ],
+    "road_node": "5156274275",
+    "gap_m": 48.09,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Bhayangkara",
+    "osm_url": "https://www.openstreetmap.org/way/491025622",
+    "hospital_lonlat": [
+      110.47161538333334,
+      -7.766226911111112
+    ],
+    "road_node": "10537041885",
+    "gap_m": 47.23,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Condong Catur",
+    "osm_url": "https://www.openstreetmap.org/way/1134408330",
+    "hospital_lonlat": [
+      110.40578724000002,
+      -7.754333030000001
+    ],
+    "road_node": "5558443522",
+    "gap_m": 150.91,
+    "status": "requires_review",
+    "in_largest_component": false
+  },
+  {
+    "name": "Rumah Sakit Dharma",
+    "osm_url": "https://www.openstreetmap.org/way/533713529",
+    "hospital_lonlat": [
+      110.42995535,
+      -7.825506150000001
+    ],
+    "road_node": "9560229489",
+    "gap_m": 35.36,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Dr Soetarto",
+    "osm_url": "https://www.openstreetmap.org/way/591475169",
+    "hospital_lonlat": [
+      110.37699286363637,
+      -7.7854769363636365
+    ],
+    "road_node": "5826276179",
+    "gap_m": 90.31,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Hermina",
+    "osm_url": "https://www.openstreetmap.org/way/362511092",
+    "hospital_lonlat": [
+      110.43255536000001,
+      -7.770192940000001
+    ],
+    "road_node": "2091708590",
+    "gap_m": 150.1,
+    "status": "requires_review",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit JIH",
+    "osm_url": "https://www.openstreetmap.org/way/591934313",
+    "hospital_lonlat": [
+      110.40353036857144,
+      -7.757864191428572
+    ],
+    "road_node": "7654737760",
+    "gap_m": 118.92,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Ludira Husada Tama",
+    "osm_url": "https://www.openstreetmap.org/way/591938608",
+    "hospital_lonlat": [
+      110.35290307500001,
+      -7.792381075000001
+    ],
+    "road_node": "1526066706",
+    "gap_m": 20.13,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Medika Respati",
+    "osm_url": "https://www.openstreetmap.org/way/620278791",
+    "hospital_lonlat": [
+      110.4337796,
+      -7.748323579166667
+    ],
+    "road_node": "5532347904",
+    "gap_m": 70.63,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Nur Hidayah",
+    "osm_url": "https://www.openstreetmap.org/way/614432401",
+    "hospital_lonlat": [
+      110.38798535000001,
+      -7.886219775000001
+    ],
+    "road_node": "822555211",
+    "gap_m": 40.29,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Panti Rahayu",
+    "osm_url": "https://www.openstreetmap.org/node/12866255147",
+    "hospital_lonlat": [
+      110.65809920000001,
+      -7.956385000000001
+    ],
+    "road_node": "6805544277",
+    "gap_m": 13.95,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Panti Rapih",
+    "osm_url": "https://www.openstreetmap.org/way/270040187",
+    "hospital_lonlat": [
+      110.37755818846155,
+      -7.777212942307693
+    ],
+    "road_node": "13398204991",
+    "gap_m": 117.67,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Permata Husada",
+    "osm_url": "https://www.openstreetmap.org/way/1134739784",
+    "hospital_lonlat": [
+      110.40824183333335,
+      -7.8657948666666675
+    ],
+    "road_node": "1502041757",
+    "gap_m": 46.08,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit PKU Muhammadiyah Gamping",
+    "osm_url": "https://www.openstreetmap.org/way/349955138",
+    "hospital_lonlat": [
+      110.31723029333334,
+      -7.80116162
+    ],
+    "road_node": "6699934648",
+    "gap_m": 75.49,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Pratama",
+    "osm_url": "https://www.openstreetmap.org/way/396468395",
+    "hospital_lonlat": [
+      110.37367806875001,
+      -7.815760900000001
+    ],
+    "road_node": "3992756081",
+    "gap_m": 40.35,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Rajawali Citra",
+    "osm_url": "https://www.openstreetmap.org/way/619125299",
+    "hospital_lonlat": [
+      110.41023595000001,
+      -7.8486080000000005
+    ],
+    "road_node": "1371811495",
+    "gap_m": 44.34,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Siloam Yogyakarta",
+    "osm_url": "https://www.openstreetmap.org/node/7331641864",
+    "hospital_lonlat": [
+      110.39088450000001,
+      -7.7833994
+    ],
+    "road_node": "5639262038",
+    "gap_m": 28.17,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Umum Queen Latifa",
+    "osm_url": "https://www.openstreetmap.org/way/616883613",
+    "hospital_lonlat": [
+      110.33696572500001,
+      -7.7626274
+    ],
+    "road_node": "2436998075",
+    "gap_m": 65.23,
+    "status": "requires_review",
+    "in_largest_component": false
+  },
+  {
+    "name": "Rumah Sakit Umum Rachma Husada",
+    "osm_url": "https://www.openstreetmap.org/way/616862644",
+    "hospital_lonlat": [
+      110.34586302941177,
+      -7.932126394117648
+    ],
+    "road_node": "6812294128",
+    "gap_m": 22.41,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Umum Veteran Patmasuri",
+    "osm_url": "https://www.openstreetmap.org/way/120838420",
+    "hospital_lonlat": [
+      110.35997605,
+      -7.830006200000001
+    ],
+    "road_node": "6813473908",
+    "gap_m": 26.06,
+    "status": "road_point_proxy",
+    "in_largest_component": true
+  },
+  {
+    "name": "Rumah Sakit Universitas Ahmad Dahlan",
+    "osm_url": "https://www.openstreetmap.org/way/613598097",
+    "hospital_lonlat": [
+      110.42481703333334,
+      -7.747103050000001
+    ],
+    "road_node": "5563511233",
+    "gap_m": 388.02,
+    "status": "requires_review",
+    "in_largest_component": true
+  }
+]

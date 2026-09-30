@@ -1,0 +1,30 @@
+{
+  "distance_m": 2796.5814278425223,
+  "time_s": 551.587366836295,
+  "components_s": {
+    "base_s": 301.3056356793982,
+    "poi_s": 215.28173115689674,
+    "signal_s": 35.0,
+    "rail_s": 0.0
+  },
+  "road_sequence": [
+    "Jalan Tentara Pelajar",
+    "Tanpa nama",
+    "Jalan Suryonegaran",
+    "Jalan Wongsodirjan",
+    "Jalan Margo Utomo",
+    "Tanpa nama",
+    "Jalan Kleringan",
+    "Jembatan Kleringan",
+    "Jalan Abu Bakar Ali",
+    "Jalan Yos Sudarso",
+    "Jalan Suroto",
+    "Tanpa nama",
+    "Jalan Juadi"
+  ],
+  "start_gap_m": 41.93893144695961,
+  "hospital_gap_m": 90.31,
+  "both_routes_identical": true,
+  "verified": "Continuity, directed edges, modeled turn rules, cost sum, goal membership, equal algorithm cost",
+  "google_maps_comparison": "Screenshot only; exact destination, route geometry and departure conditions unavailable. No numerical accuracy claim."
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "RSUP Dr. Sardjito",
+    "osm_url": "https://www.openstreetmap.org/way/616520162",
+    "road_node": "3684853427",
+    "goal_lonlat": [
+      110.37427860000001,
+      -7.7676148000000005
+    ],
+    "goal_kind": "public_road_junction_at_inbound_hospital_access",
+    "access_way_id": "720538474",
+    "access_way_tags": {
+      "access": "customers",
+      "highway": "service",
+      "oneway": "yes",
+      "surface": "paving_stones"
+    },
+    "distance_to_hospital_polygon_m": 3.9217319275957676,
+    "access_way_inside_hospital_m": 220.85510850739342,
+    "evidence": "Local PBF: inbound one-way service driveway begins at existing strict-road node and enters hospital amenity polygon",
+    "limits": "Goal is the public-road approach, not IGD or internal drop-off; visitor access and live gate state not field-verified; internal driveway travel excluded"
+  }
+]

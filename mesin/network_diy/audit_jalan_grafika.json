@@ -1,0 +1,1960 @@
+[
+  {
+    "id": "119290804",
+    "tags": {
+      "amenity": "college",
+      "building": "yes",
+      "building:levels": "4",
+      "building:roof": "tile",
+      "building:structure": "reinforced_masonry",
+      "building:use": "education",
+      "building:walls": "brick",
+      "name": "Gedung Z, Teknik Grafika dan Percetakan"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      1340858490,
+      1340858492,
+      1340858493,
+      1340858491,
+      1340858490
+    ]
+  },
+  {
+    "id": "157345077",
+    "tags": {
+      "building": "yes",
+      "name": "Grafika"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      1695642474,
+      1695642488,
+      1695642500,
+      1695642497,
+      1695642474
+    ]
+  },
+  {
+    "id": "161281583",
+    "tags": {
+      "building": "commercial",
+      "building:levels": "1",
+      "height": "4",
+      "name": "Percetakan Bogor Grafika"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      1732721829,
+      1748690823,
+      1748690841,
+      1748690836,
+      1748690809,
+      1732721785,
+      1732721850,
+      1748690852,
+      1748690871,
+      1748690870,
+      1748690867,
+      1748690868,
+      1748690863,
+      1732721883,
+      1732721829
+    ]
+  },
+  {
+    "id": "247968337",
+    "tags": {
+      "access": "permissive",
+      "bicycle": "yes",
+      "foot": "yes",
+      "highway": "residential",
+      "lanes": "1",
+      "maxspeed": "20",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika",
+      "oneway": "yes",
+      "smoothness": "good",
+      "source": "survey",
+      "surface": "paving_stones",
+      "width": "5"
+    },
+    "reason": "allowed",
+    "refs": [
+      5411438025,
+      13321512873,
+      13413161689
+    ]
+  },
+  {
+    "id": "258862745",
+    "tags": {
+      "highway": "secondary",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Raya",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "asphalt",
+      "width": "6"
+    },
+    "reason": "allowed",
+    "refs": [
+      2641762461,
+      5579642704,
+      5563934756,
+      2641762462,
+      7271120229,
+      7271120228,
+      5573319209,
+      8582389785,
+      2641762463,
+      2641762464,
+      2641762465,
+      5581684133,
+      2641762466,
+      5581684134,
+      2641762467,
+      5581684135,
+      5581684136,
+      2641762468,
+      5513580339,
+      5498464627,
+      2641762469,
+      7271120227,
+      8582357336,
+      5573319218,
+      2641762470,
+      5498464611,
+      5579642711,
+      5498464592,
+      5498464567,
+      5579642713,
+      5498463408,
+      2641762473,
+      4077661515,
+      2641762474,
+      5890200988,
+      5665713425,
+      5573319847,
+      2641762475,
+      5665712907,
+      2641762476,
+      5617161761,
+      7271120226,
+      2641762477,
+      2641762478,
+      5617161760
+    ]
+  },
+  {
+    "id": "405594908",
+    "tags": {
+      "highway": "tertiary",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Utama",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "asphalt",
+      "width": "5"
+    },
+    "reason": "allowed",
+    "refs": [
+      4077661515,
+      9613055714,
+      5498463366,
+      5890312960,
+      5890200985,
+      5498464530,
+      5513581748,
+      4077661516,
+      5581722114,
+      5890312958,
+      5581722112,
+      4077661517,
+      5581722107,
+      7265440167,
+      4077661518,
+      7265440166,
+      4077661519,
+      5581722106,
+      5581722105,
+      7265440153,
+      4077661520
+    ]
+  },
+  {
+    "id": "497071045",
+    "tags": {
+      "access:roof": "no",
+      "addr:city": "DKI Jakarta",
+      "addr:full": "Jalan Desa Putera",
+      "amenity": "school",
+      "backup_generator": "no",
+      "building": "school",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "1",
+      "building:roof": "concrete",
+      "building:structure": "confined_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "50-100",
+      "evacuation_center": "no",
+      "name": "SMK Grafika",
+      "operator:type": "private",
+      "school:type_idn": "sma",
+      "source": "HOT_InAWARESurvey_2017"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      4886982973,
+      4886983138,
+      4886983135,
+      4886982975,
+      4886983132,
+      4886983133,
+      4886983134,
+      4886982972,
+      4886983126,
+      4886983127,
+      4886982973
+    ]
+  },
+  {
+    "id": "501973558",
+    "tags": {
+      "addr:city": "DKI Jakarta",
+      "addr:full": "Jalan Pasar Jum'at",
+      "amenity": "school",
+      "name": "Yayasan Lektur Grafika Media",
+      "operator:type": "private",
+      "school:type_idn": "sma",
+      "source": "HOT_InAWARESurvey_2017"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      4925980043,
+      4925980042,
+      4925980041,
+      4925980040,
+      4925980039,
+      5210614682,
+      5812501186,
+      5812501185,
+      4925980038,
+      4925980037,
+      4925980036,
+      4925980035,
+      4925980034,
+      4925980033,
+      4925980043
+    ]
+  },
+  {
+    "id": "501973560",
+    "tags": {
+      "access:roof": "no",
+      "addr:city": "DKI Jakarta",
+      "backup_generator": "no",
+      "building": "school",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "2",
+      "building:walls": "brick",
+      "capacity:persons": "250-500",
+      "evacuation_center": "no",
+      "name": "SMK Grafika",
+      "operator:type": "private",
+      "school:type_idn": "sma",
+      "source": "HOT_InAWARESurvey_2017"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      4925980048,
+      4925980050,
+      4925980058,
+      4925980059,
+      4925980056,
+      4925980057,
+      4925980051,
+      4925980055,
+      4925980049,
+      4925980053,
+      4925980052,
+      4925980054,
+      4925980048
+    ]
+  },
+  {
+    "id": "501973586",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan STM Grafika",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2017",
+      "surface": "asphalt",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      4925980208,
+      4925980207,
+      5498093101
+    ]
+  },
+  {
+    "id": "514725864",
+    "tags": {
+      "access:roof": "no",
+      "addr:city": "DKI Jakarta",
+      "addr:full": "Jalan H. Ilyas",
+      "amenity": "school",
+      "backup_generator": "no",
+      "building": "school",
+      "building:condition": "good",
+      "building:floor": "ceramics",
+      "building:levels": "4",
+      "building:roof": "tile",
+      "building:structure": "confined_masonry",
+      "building:walls": "brick",
+      "capacity:persons": "100-250",
+      "evacuation_center": "no",
+      "name": "SMK Tunas Grafika Informatika",
+      "operator:type": "private",
+      "school:type_idn": "sma",
+      "source": "HOT_InAWARESurvey_2017"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      5028117183,
+      5028117182,
+      5028117181,
+      5028117180,
+      5028117179,
+      5028117178,
+      5028117177,
+      5028117176,
+      5028117175,
+      5028117174,
+      5028117183
+    ]
+  },
+  {
+    "id": "559679591",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Permata Grafika II",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      4077661528,
+      9613103517,
+      5547609831,
+      5397854881,
+      5397854880
+    ]
+  },
+  {
+    "id": "559679593",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Permata Grafika II",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5513303328,
+      5397854881,
+      5397854882
+    ]
+  },
+  {
+    "id": "559679606",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Permata Grafika III",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      7265691256,
+      12985589116,
+      7265691257,
+      7265691259,
+      7265691260,
+      8900181432,
+      5547609832,
+      7265691255,
+      13940197231,
+      5397854878,
+      5397854877,
+      5397854876,
+      5397854875,
+      7265440145,
+      5890312935,
+      5397854874,
+      5397854909
+    ]
+  },
+  {
+    "id": "561144661",
+    "tags": {
+      "access": "permissive",
+      "bridge": "yes",
+      "highway": "residential",
+      "layer": "1",
+      "maxspeed": "20",
+      "name": "Jalan Grafika",
+      "oneway": "yes",
+      "surface": "paving_stones"
+    },
+    "reason": "local_width_missing",
+    "refs": [
+      5411438024,
+      5411438025
+    ]
+  },
+  {
+    "id": "561144662",
+    "tags": {
+      "access": "permissive",
+      "highway": "residential",
+      "maxspeed": "20",
+      "name": "Jalan Grafika",
+      "oneway": "yes",
+      "surface": "paving_stones"
+    },
+    "reason": "local_width_missing",
+    "refs": [
+      13413161678,
+      13413161673,
+      5411438024
+    ]
+  },
+  {
+    "id": "572316833",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Citra Sentosa",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464668,
+      5498464674,
+      7270976380,
+      7270976379,
+      7271201383,
+      5587729224,
+      5498464669,
+      5498464667,
+      5498464662,
+      7270976378,
+      7270976377,
+      5581735029,
+      5498464659,
+      5513581750,
+      5498464668
+    ]
+  },
+  {
+    "id": "572316835",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Barat",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5573319830,
+      5573319831,
+      7270970610,
+      7270970609,
+      5573319832,
+      5573319833,
+      7270970611,
+      5573319834,
+      5573319835,
+      5573319836,
+      5573319837,
+      5573319838,
+      5573319839,
+      5498464640,
+      5498464638,
+      5498464635,
+      5498464633,
+      5498464631,
+      5498464623,
+      5498464618,
+      5498464615,
+      5890312965,
+      5498464614,
+      5890312970,
+      5498464612,
+      13130983880,
+      5498464607,
+      7270976364,
+      5498464599,
+      5498464588,
+      5498464565,
+      5498464554,
+      5498464550,
+      5498464548,
+      7270970612,
+      5498464523,
+      5498463406,
+      5498463379
+    ]
+  },
+  {
+    "id": "572316839",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Graha Grafika Eksklusif",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464530,
+      5498464551,
+      5498464559,
+      5498464584
+    ]
+  },
+  {
+    "id": "572316840",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Barat VI",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464618,
+      5498464620,
+      7271388985,
+      5498464624,
+      5498464627
+    ]
+  },
+  {
+    "id": "572316843",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Mutiara Grafika",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "asphalt",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464639,
+      7270976368,
+      7270976369,
+      7270976370,
+      5498464630,
+      5498464621,
+      5498464619
+    ]
+  },
+  {
+    "id": "572316848",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Barat IV",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464599,
+      5498464606,
+      5498464608,
+      5498464609,
+      5498464610,
+      5498464611
+    ]
+  },
+  {
+    "id": "572316851",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Barat III",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464554,
+      5498464562,
+      5498464573,
+      5498464571,
+      5498464577,
+      5498464580,
+      5498464582,
+      5498464589,
+      5498464592
+    ]
+  },
+  {
+    "id": "574275627",
+    "tags": {
+      "highway": "service",
+      "motor_vehicle": "private",
+      "name": "Jalan Grafika"
+    },
+    "reason": "restricted_access",
+    "refs": [
+      7298128046,
+      7298128048,
+      5512944089
+    ]
+  },
+  {
+    "id": "574338077",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Asri IV",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5513301853,
+      5513301852
+    ]
+  },
+  {
+    "id": "574338176",
+    "tags": {
+      "highway": "living_street",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Regency",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "concrete",
+      "width": "3"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      5587729179,
+      5587729177,
+      5587729180,
+      5587729178,
+      5587729181,
+      7265440136,
+      7265440137,
+      5587729182,
+      5397854863,
+      5513302793
+    ]
+  },
+  {
+    "id": "574338237",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Permata Grafika III",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5547609839,
+      5397854876,
+      5513303330
+    ]
+  },
+  {
+    "id": "574338238",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Permata Grafika III",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5397854877,
+      5513303332,
+      5513303330,
+      5513303331,
+      7265440149,
+      7265440148,
+      7265440147,
+      5397854875
+    ]
+  },
+  {
+    "id": "574338240",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Widya Graha",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5513303341,
+      9585440461,
+      5513303340,
+      5581722049
+    ]
+  },
+  {
+    "id": "574338241",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Graha Pratama",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5513303343,
+      5513303342
+    ]
+  },
+  {
+    "id": "574338242",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Asri Raya",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464613,
+      5581722092,
+      5513301853,
+      8582161407,
+      5513303345,
+      5581722103,
+      9585440462,
+      5581722104
+    ]
+  },
+  {
+    "id": "574389226",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Utama I",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498463366,
+      5498464546,
+      5498464560,
+      5498464587,
+      5513581610
+    ]
+  },
+  {
+    "id": "574389236",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Residence",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "8"
+    },
+    "reason": "allowed",
+    "refs": [
+      5513581748,
+      5513581747
+    ]
+  },
+  {
+    "id": "574389237",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Citra Sentosa",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5513581750,
+      5498464669
+    ]
+  },
+  {
+    "id": "575474400",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Timur IV",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5579642711,
+      5579642710,
+      13132407003,
+      5579642709,
+      5579642708,
+      7270976366,
+      7270976365,
+      5521945376
+    ]
+  },
+  {
+    "id": "575474401",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Asri II",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5513303345,
+      5581722101,
+      5521945415
+    ]
+  },
+  {
+    "id": "579207598",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Goldenland",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      7270976374,
+      7270976373,
+      5498464657,
+      5581719597,
+      5581719612,
+      5498464649,
+      7265676213,
+      7265676212,
+      7265676211,
+      5498464647,
+      5547608957
+    ]
+  },
+  {
+    "id": "579207817",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Permata Grafika II",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "asphalt",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5547609711,
+      5668764022,
+      5547609831,
+      5547609830
+    ]
+  },
+  {
+    "id": "579207818",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Permata Grafika II",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5397854880,
+      5397854873,
+      5397854874
+    ]
+  },
+  {
+    "id": "579207819",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Permata Grafika III",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5397854878,
+      13951498288,
+      5513303329,
+      5581722038,
+      7265440151,
+      7265440146,
+      7265440150,
+      5581722037,
+      5513303332
+    ]
+  },
+  {
+    "id": "579207821",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Indah II",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5397854911,
+      9613103518,
+      12649142358,
+      5513303339,
+      7265440126,
+      7265440125,
+      5513303338,
+      5581722048
+    ]
+  },
+  {
+    "id": "579207822",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Indah I",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5581722045,
+      5581722044,
+      5397854913,
+      5513303337,
+      5547609681
+    ]
+  },
+  {
+    "id": "581527671",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Barat VIII",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5563934756,
+      7270970601,
+      5563934755,
+      7270970602,
+      7270970603,
+      5563934754,
+      5563934753,
+      7270970605,
+      7270970604,
+      7270970606
+    ]
+  },
+  {
+    "id": "582760267",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "asphalt",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5572581067,
+      5580148409,
+      5572581062,
+      7270948894,
+      5572581057,
+      7270948895,
+      5549719092,
+      7270948896,
+      5549719093,
+      7270948897,
+      5665771898,
+      2641762479
+    ]
+  },
+  {
+    "id": "582787505",
+    "tags": {
+      "highway": "residential",
+      "name": "Grafika Estate"
+    },
+    "reason": "local_width_missing",
+    "refs": [
+      5572724641,
+      11215120114,
+      2371653846
+    ]
+  },
+  {
+    "id": "582875569",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Barat VII",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5573319830,
+      5573319217,
+      5573319216,
+      5573319215,
+      5573319214,
+      5573319213,
+      5573319212,
+      5573319211,
+      5573319210,
+      5573319209
+    ]
+  },
+  {
+    "id": "582875570",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Timur V",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "concrete",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5573319218,
+      5579642706,
+      5579642705,
+      5581673341
+    ]
+  },
+  {
+    "id": "582875573",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Timur I",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498463408,
+      5579642714
+    ]
+  },
+  {
+    "id": "582875574",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Barat II",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498463379,
+      7270970614,
+      7270970613,
+      5498463376,
+      5498463388,
+      5498463393,
+      7270970615,
+      5498463415,
+      5498463409,
+      5498463408
+    ]
+  },
+  {
+    "id": "583618200",
+    "tags": {
+      "highway": "living_street",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Timur VI",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "2"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      5579642704,
+      5579642703
+    ]
+  },
+  {
+    "id": "583618201",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Timur IV",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5579642709,
+      5579642707
+    ]
+  },
+  {
+    "id": "583618202",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Timur II",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "concrete",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5579642713,
+      5579642712
+    ]
+  },
+  {
+    "id": "583834576",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Permata Grafika II",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5397854871,
+      5397854872,
+      5397854880
+    ]
+  },
+  {
+    "id": "583844314",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Barat V",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "concrete",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464612,
+      5573319218
+    ]
+  },
+  {
+    "id": "583845848",
+    "tags": {
+      "bridge": "yes",
+      "highway": "tertiary",
+      "lanes": "1",
+      "layer": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Utama",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "asphalt",
+      "width": "5"
+    },
+    "reason": "allowed",
+    "refs": [
+      4077661520,
+      13131022206,
+      4077661521
+    ]
+  },
+  {
+    "id": "583851054",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Goldenland",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464647,
+      5581719598
+    ]
+  },
+  {
+    "id": "583851069",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Permata Grafika I",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5397854909,
+      5397854910,
+      5397854911
+    ]
+  },
+  {
+    "id": "583851070",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Permata Grafika I",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5397854910,
+      5581722039
+    ]
+  },
+  {
+    "id": "583851072",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Widya Graha",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "2"
+    },
+    "reason": "width_below_3m",
+    "refs": [
+      5513303340,
+      5513301902
+    ]
+  },
+  {
+    "id": "583851085",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Asri III",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5581722101,
+      5581722100,
+      7265440092,
+      7265440093,
+      7265440090,
+      5581722099,
+      7265440091,
+      5581722098,
+      5581722097,
+      13131022205,
+      13131022204,
+      13131022203,
+      5521945415
+    ]
+  },
+  {
+    "id": "583851086",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Asri I",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5581722103,
+      5581722102
+    ]
+  },
+  {
+    "id": "583851088",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Graha Grafika Eksklusif",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464559,
+      5498464578,
+      7271120222,
+      7271120221,
+      7271120220,
+      5581722113
+    ]
+  },
+  {
+    "id": "583851089",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Timur III",
+      "oneway": "no",
+      "smoothness": "intermediate",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "3"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464587,
+      5498464570,
+      5498464567
+    ]
+  },
+  {
+    "id": "583853542",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Citra Sentosa",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464659,
+      5581735054
+    ]
+  },
+  {
+    "id": "584330533",
+    "tags": {
+      "addr:street": "Jalan Gedong Sawah",
+      "name": "Percetakan Bogor Grafika",
+      "shop": "copyshop"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      5585609815,
+      5585609816,
+      5585609817,
+      5585609818,
+      5585609815
+    ]
+  },
+  {
+    "id": "588080835",
+    "tags": {
+      "highway": "secondary",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Raya",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "asphalt",
+      "width": "6"
+    },
+    "reason": "allowed",
+    "refs": [
+      5617161759,
+      2641762479,
+      7271120225,
+      2641762480,
+      2641762482
+    ]
+  },
+  {
+    "id": "588080840",
+    "tags": {
+      "bridge": "yes",
+      "highway": "secondary",
+      "lanes": "1",
+      "layer": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Raya",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "asphalt",
+      "width": "6"
+    },
+    "reason": "allowed",
+    "refs": [
+      5617161760,
+      5617161759
+    ]
+  },
+  {
+    "id": "615157903",
+    "tags": {
+      "addr:city": "Bantul",
+      "addr:housenumber": "518",
+      "addr:postcode": "55197",
+      "addr:street": "Jalan Amat Wakhid",
+      "building": "yes",
+      "building:levels": "2",
+      "height": "7",
+      "name": "insetgrafika percetakan",
+      "phone": "+6281227670714"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      5817416003,
+      5817416007,
+      5817416006,
+      5817416005,
+      5817416009,
+      5817416004,
+      5817416002,
+      5817416010,
+      5817416008,
+      5817416003
+    ]
+  },
+  {
+    "id": "623778209",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Indah I",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5397854912,
+      9585440460,
+      5581722048,
+      5581722044
+    ]
+  },
+  {
+    "id": "623778210",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Indah I",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5547609681,
+      5581722047,
+      5581722046,
+      5581722045
+    ]
+  },
+  {
+    "id": "778744589",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Goldenland",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464643,
+      5547608957,
+      7270976375,
+      7270976376,
+      5581719611,
+      7270976374
+    ]
+  },
+  {
+    "id": "778744590",
+    "tags": {
+      "highway": "residential",
+      "lanes": "1",
+      "motorcycle": "yes",
+      "name": "Jalan Grafika Citra Sentosa",
+      "oneway": "no",
+      "smoothness": "good",
+      "source": "HOT_InAWARESurvey_2018",
+      "surface": "paving_stones",
+      "width": "4"
+    },
+    "reason": "allowed",
+    "refs": [
+      5498464666,
+      5498464668
+    ]
+  },
+  {
+    "id": "965498770",
+    "tags": {
+      "highway": "residential",
+      "name": "Gang Stm Grafika"
+    },
+    "reason": "local_width_missing",
+    "refs": [
+      8487903110,
+      6563070478,
+      5447322530,
+      7209688639,
+      5447322529,
+      5447322528
+    ]
+  },
+  {
+    "id": "995496483",
+    "tags": {
+      "access": "permissive",
+      "highway": "residential",
+      "maxspeed": "20",
+      "name": "Jalan Grafika",
+      "oneway": "yes",
+      "surface": "paving_stones"
+    },
+    "reason": "local_width_missing",
+    "refs": [
+      9192512898,
+      13413161672,
+      13413161678
+    ]
+  },
+  {
+    "id": "995496484",
+    "tags": {
+      "access": "permissive",
+      "bridge": "yes",
+      "highway": "residential",
+      "layer": "1",
+      "maxspeed": "20",
+      "name": "Jalan Grafika",
+      "oneway": "yes",
+      "surface": "paving_stones"
+    },
+    "reason": "local_width_missing",
+    "refs": [
+      9192512899,
+      9192512898
+    ]
+  },
+  {
+    "id": "995496485",
+    "tags": {
+      "access": "permissive",
+      "highway": "residential",
+      "maxspeed": "20",
+      "name": "Jalan Grafika",
+      "oneway": "yes",
+      "surface": "paving_stones"
+    },
+    "reason": "local_width_missing",
+    "refs": [
+      13413161689,
+      13413161674,
+      13321512874,
+      9192512899
+    ]
+  },
+  {
+    "id": "995496486",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "maxspeed": "20",
+      "name": "Jalan Grafika",
+      "oneway": "yes",
+      "surface": "paving_stones"
+    },
+    "reason": "restricted_access",
+    "refs": [
+      8831484354,
+      2548169718,
+      2548169721,
+      2548169724,
+      13413167119,
+      2548169725,
+      13413167116,
+      13413167117,
+      13413167118,
+      6763210238,
+      2548169726,
+      2548169727,
+      13413167115
+    ]
+  },
+  {
+    "id": "1082389490",
+    "tags": {
+      "addr:city": "Bojonegoro",
+      "addr:postcode": "62191",
+      "addr:street": "Jl. PUK Medalem-Kanor",
+      "building": "yes",
+      "name": "Tepat Guna Grafika",
+      "shop": "stationery"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      9919821550,
+      9919821551,
+      9919821552,
+      9919821553,
+      9919821550
+    ]
+  },
+  {
+    "id": "1320015345",
+    "tags": {
+      "name": "Terminal Wisata Grafika Cikole",
+      "tourism": "attraction"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      12215423827,
+      12215423826,
+      12215423825,
+      12215423824,
+      12215423823,
+      12215423822,
+      12215423821,
+      12215423820,
+      12215423819,
+      12215423827
+    ]
+  },
+  {
+    "id": "1456012938",
+    "tags": {
+      "access": "yes",
+      "amenity": "motorcycle_parking",
+      "fee": "yes",
+      "mapillary": "1404969567869591",
+      "name": "Parkiran Teknik Grafika dan Percetakan",
+      "operator": "Poliktenik Negeri Jakarta",
+      "operator:type": "university",
+      "parking": "surface",
+      "payment:contactless": "yes",
+      "short_name": "Parkiran TGP",
+      "surface": "paving_stones"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      13353346457,
+      11081417594,
+      13353346458,
+      13353346459,
+      13353346460,
+      13353346461,
+      13353346462,
+      13353346457
+    ]
+  },
+  {
+    "id": "1457073242",
+    "tags": {
+      "industrial": "printing",
+      "landuse": "industrial",
+      "name": "Percetakan Karya Grafika Indonesia"
+    },
+    "reason": "excluded_class",
+    "refs": [
+      13363008266,
+      13363008267,
+      13363008263,
+      5436629637,
+      5436636309,
+      13363008268,
+      13363008269,
+      13363008270,
+      13363008271,
+      5436629515,
+      13363008257,
+      13363008266
+    ]
+  },
+  {
+    "id": "1462294473",
+    "tags": {
+      "highway": "residential",
+      "maxspeed": "20",
+      "name": "Jalan Grafika",
+      "surface": "paving_stones"
+    },
+    "reason": "local_width_missing",
+    "refs": [
+      2548163866,
+      13413161678
+    ]
+  },
+  {
+    "id": "1462294477",
+    "tags": {
+      "access": "permissive",
+      "highway": "residential",
+      "maxspeed": "20",
+      "name": "Jalan Grafika",
+      "surface": "paving_stones"
+    },
+    "reason": "local_width_missing",
+    "refs": [
+      13413161689,
+      5411438026,
+      13413167115
+    ]
+  },
+  {
+    "id": "1462294481",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "maxspeed": "20",
+      "name": "Jalan Grafika",
+      "oneway": "yes",
+      "surface": "paving_stones"
+    },
+    "reason": "restricted_access",
+    "refs": [
+      13413167115,
+      13413167112,
+      2548169674,
+      2548169677,
+      2548169679,
+      13413167111,
+      2548169681,
+      13413167113,
+      13413167114,
+      2548169683,
+      5147458207,
+      7719713960,
+      7719713959
+    ]
+  }
+]

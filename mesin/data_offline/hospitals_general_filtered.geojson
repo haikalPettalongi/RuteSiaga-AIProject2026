@@ -1,0 +1,1604 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.31860657812501,
+          -7.925673503125
+        ]
+      },
+      "properties": {
+        "access:roof": "no",
+        "addr:full": "Jalan Ganjuran",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:condition": "good",
+        "building:floor": "ceramics",
+        "building:levels": "1",
+        "building:material": "brick",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "capacity:persons": ">500",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "RS Elisabeth",
+        "operator:type": "private",
+        "source": "survey",
+        "type": "multipolygon",
+        "osm_type": "relation",
+        "osm_id": "8527745",
+        "osm_url": "https://www.openstreetmap.org/relation/8527745",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/relation/8527745"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39211585,
+          -7.7939498333333335
+        ]
+      },
+      "properties": {
+        "access:roof": "yes",
+        "addr:full": "Jalan Ipda Tut harsono No 53 jl Melati wetan",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS Happy Land",
+        "operator:type": "government",
+        "source": "survey",
+        "website": "https://rshappyland.com/",
+        "osm_type": "way",
+        "osm_id": "616082200",
+        "osm_url": "https://www.openstreetmap.org/way/616082200",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/616082200"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37831078000002,
+          -7.82608496
+        ]
+      },
+      "properties": {
+        "addr:city": "Yogyakarta",
+        "addr:full": "Jalan Wirosaban No.1",
+        "addr:housenumber": "01",
+        "addr:postcode": "55162",
+        "addr:street": "Jalan Pangeran Wirosobo",
+        "amenity": "hospital",
+        "description": "Rumah Sakit Wirosaban",
+        "name": "RS Jogja",
+        "operator:type": "government",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "120774929",
+        "osm_url": "https://www.openstreetmap.org/way/120774929",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/120774929"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.56147650000001,
+          -7.922417500000001
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS Nurrohmah",
+        "osm_type": "node",
+        "osm_id": "8385985634",
+        "osm_url": "https://www.openstreetmap.org/node/8385985634",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/node/8385985634"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.41702068965517,
+          -7.66866671724138
+        ]
+      },
+      "properties": {
+        "addr:full": "Jalan Kaliurang KM 17",
+        "amenity": "hospital",
+        "capacity:persons": ">500",
+        "name": "RS Panti Nugroho",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "620543767",
+        "osm_url": "https://www.openstreetmap.org/way/620543767",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/620543767"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4663881,
+          -7.771625757142857
+        ]
+      },
+      "properties": {
+        "access:roof": "no",
+        "addr:full": "Jl. Jogja - Solo",
+        "amenity": "hospital",
+        "capacity:persons": "250-500",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Hotspot Panti Rini",
+        "name": "RS Panti Rini",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "198739428",
+        "osm_url": "https://www.openstreetmap.org/way/198739428",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/198739428"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2128813,
+          -7.7539435
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS PKU Muhamadiyah Nanggulan",
+        "osm_type": "node",
+        "osm_id": "13666888628",
+        "osm_url": "https://www.openstreetmap.org/node/13666888628",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/node/13666888628"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36242451250001,
+          -7.800798400000001
+        ]
+      },
+      "properties": {
+        "addr:full": "Jalan K.H. Ahmad Dahlan No. 20",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "RS PKU Muhammadiyah",
+        "website": "https://rspkujogja.com/",
+        "osm_type": "way",
+        "osm_id": "121642948",
+        "osm_url": "https://www.openstreetmap.org/way/121642948",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/121642948"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35797535,
+          -7.709467775
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "building": "yes",
+        "check_date": "2025-12-19",
+        "healthcare": "hospital",
+        "name": "RS PKU muhammadiyah Sleman",
+        "osm_type": "way",
+        "osm_id": "363733122",
+        "osm_url": "https://www.openstreetmap.org/way/363733122",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/363733122"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38645182500001,
+          -7.705810275000001
+        ]
+      },
+      "properties": {
+        "addr:full": "jl palagan tentara pelajar",
+        "amenity": "hospital",
+        "name": "RS Puri Husada",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "620520051",
+        "osm_url": "https://www.openstreetmap.org/way/620520051",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/620520051"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36790130000001,
+          -7.767637283333333
+        ]
+      },
+      "properties": {
+        "addr:full": "Jalan Monjali No.106, Kutu Dukuh, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS Sakina Idaman",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "617106472",
+        "osm_url": "https://www.openstreetmap.org/way/617106472",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/617106472"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.29587655,
+          -7.9091965
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RS Universitas Islam Indonesia",
+        "osm_type": "way",
+        "osm_id": "722721176",
+        "osm_url": "https://www.openstreetmap.org/way/722721176",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/722721176",
+          "https://www.openstreetmap.org/node/10705747215"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38777586666667,
+          -7.81503325
+        ]
+      },
+      "properties": {
+        "addr:full": "Jl.Veteran No.184, Pandeyan, Umbulharjo",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSI Hidayatullah",
+        "operator:type": "government",
+        "source": "survey",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "osm_type": "way",
+        "osm_id": "616211547",
+        "osm_url": "https://www.openstreetmap.org/way/616211547",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/616211547"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.45886884736844,
+          -7.77576772631579
+        ]
+      },
+      "properties": {
+        "addr:full": "jln jogja-solo",
+        "amenity": "hospital",
+        "capacity:persons": "250-500",
+        "healthcare": "hospital",
+        "name": "RSIY PDHI",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "1066702261",
+        "osm_url": "https://www.openstreetmap.org/way/1066702261",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/1066702261"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.41163158571429,
+          -7.797581271428571
+        ]
+      },
+      "properties": {
+        "addr:city": "Bantul",
+        "addr:full": "Jalan Janti Yogyakarta, Lanud Adisutjipto, Jl. Ringroad Timur, Karang Janbe, Banguntapan, Kec. Banguntapan, Bantul, Daerah Istimewa Yogyakarta 55198",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSPAU dr. S. Hardjolukito",
+        "operator:type": "government",
+        "website": "https://www.rspauhardjolukito.com/",
+        "osm_type": "way",
+        "osm_id": "783886543",
+        "osm_url": "https://www.openstreetmap.org/way/783886543",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/783886543"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.41698585,
+          -7.7014093
+        ]
+      },
+      "properties": {
+        "access:roof": "no",
+        "addr:full": "jalan raya besi jangka no.10 ngaglik",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:condition": "good",
+        "building:floor": "ceramics",
+        "building:levels": "2",
+        "building:material": "concrete",
+        "building:roof": "tile",
+        "building:structure": "steel_frame",
+        "capacity:persons": "100-250",
+        "name": "RSU Gramedika",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "533314778",
+        "osm_url": "https://www.openstreetmap.org/way/533314778",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/533314778"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.44818587500001,
+          -7.714069725
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSU Mitra Paramedika",
+        "osm_type": "way",
+        "osm_id": "1138796873",
+        "osm_url": "https://www.openstreetmap.org/way/1138796873",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/1138796873"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.24235443333333,
+          -7.755199777777779
+        ]
+      },
+      "properties": {
+        "access:roof": "no",
+        "addr:full": "Klepu, Sendangmulyo, Minggir",
+        "amenity": "hospital",
+        "name": "RSU PANTI BAKTININGSIH",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "620520372",
+        "osm_url": "https://www.openstreetmap.org/way/620520372",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/620520372"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.63204520000001,
+          -7.989143200000001
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "RSU Pelita Husada",
+        "osm_type": "node",
+        "osm_id": "9751906945",
+        "osm_url": "https://www.openstreetmap.org/node/9751906945",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/node/9751906945"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.33040203333333,
+          -7.8869772750000005
+        ]
+      },
+      "properties": {
+        "access:roof": "yes",
+        "addr:full": "Jalan Jendral Sudirman",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:condition": "good",
+        "building:floor": "ceramics",
+        "building:levels": "3",
+        "building:material": "concrete",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "capacity:persons": ">500",
+        "name": "RSU PKU Muhammadiyah",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "366465707",
+        "osm_url": "https://www.openstreetmap.org/way/366465707",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/366465707"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3378782909091,
+          -7.892049477272727
+        ]
+      },
+      "properties": {
+        "addr:city": "Bantul",
+        "addr:full": "Jalan Dr. Wahidin Sudiro Husodo, Area Sawah, Trirenggo, Kec. Bantul, Bantul, Daerah Istimewa Yogyakarta 55714",
+        "addr:postcode": "55714",
+        "addr:street": "Jalan Dokter Wahidin Sudiro Husodo",
+        "amenity": "hospital",
+        "description": "Hasil pemetaan rumah sakit rujukan COVID19 di Provinsi DIY. -Indonesia Hospital Mapping Project-",
+        "email": "rsudps@bantulkab.go.id",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "RSUD Panembahan Senopati",
+        "operator": "Pemerintah Kabupaten Bantul",
+        "operator:type": "government",
+        "phone": "+62 274 367386",
+        "source": "survey",
+        "website": "https://rsudps.bantulkab.go.id/",
+        "osm_type": "way",
+        "osm_id": "616249114",
+        "osm_url": "https://www.openstreetmap.org/way/616249114",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/616249114"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4832671,
+          -7.80471135
+        ]
+      },
+      "properties": {
+        "addr:full": "DELEGAN, SUMBERHARJO",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "RSUD PRAMBANAN",
+        "osm_type": "way",
+        "osm_id": "533746481",
+        "osm_url": "https://www.openstreetmap.org/way/533746481",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/533746481"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.34246243333335,
+          -7.687211191666667
+        ]
+      },
+      "properties": {
+        "alt_name": "rumah sakit murangan",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSUD Sleman",
+        "operator": "pemkab sleman",
+        "osm_type": "way",
+        "osm_id": "589707391",
+        "osm_url": "https://www.openstreetmap.org/way/589707391",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/589707391",
+          "https://www.openstreetmap.org/node/13797621007"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.14703286153848,
+          -7.860401588461539
+        ]
+      },
+      "properties": {
+        "addr:city": "Wates, Kulon Progo, Daerah Istimewa Yogyakarta",
+        "addr:housenumber": "5",
+        "addr:postcode": "55651",
+        "addr:street": "Jalan Tentara Pelajar",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSUD Wates",
+        "phone": "+62 274 773169",
+        "website": "https://rsud.kulonprogokab.go.id/",
+        "osm_type": "way",
+        "osm_id": "787848227",
+        "osm_url": "https://www.openstreetmap.org/way/787848227",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/787848227"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.60392677727273,
+          -7.961788100000001
+        ]
+      },
+      "properties": {
+        "addr:city": "Wonosari",
+        "addr:place": "Jalan Taman Bakti",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RSUD Wonosari",
+        "osm_type": "way",
+        "osm_id": "530314270",
+        "osm_url": "https://www.openstreetmap.org/way/530314270",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/530314270"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37219008301888,
+          -7.768800526415094
+        ]
+      },
+      "properties": {
+        "access:roof": "yes",
+        "addr:city": "Sleman",
+        "addr:full": "Jalan Kesehatan No. 1, Sinduadi, Mlati, Senolowo, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "RSUP Dr. Sardjito",
+        "name:etymology:wikidata": "Q12512196",
+        "name:etymology:wikipedia": "id:Sardjito",
+        "operator:type": "government",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "616520162",
+        "osm_url": "https://www.openstreetmap.org/way/616520162",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/616520162"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35020023125,
+          -7.7433630625
+        ]
+      },
+      "properties": {
+        "addr:city": "Sleman",
+        "addr:housename": "Rumah Sakit Akademik UGM",
+        "addr:street": "Jalan Kabupaten",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:levels": "6",
+        "email": "humas.rsugm@ugm.ac.id",
+        "emergency": "yes",
+        "fax": "+62 274 4530606",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Akademik UGM",
+        "phone": "+62 274 4530404",
+        "website": "https://rsa.ugm.ac.id/",
+        "osm_type": "way",
+        "osm_id": "233729584",
+        "osm_url": "https://www.openstreetmap.org/way/233729584",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/233729584"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.29392030000001,
+          -7.750449850000001
+        ]
+      },
+      "properties": {
+        "addr:full": "Klaci I, Margoluwih, Seyegan, Sleman",
+        "amenity": "hospital",
+        "name": "Rumah Sakit At-Turots Al-Islamy",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "620578145",
+        "osm_url": "https://www.openstreetmap.org/way/620578145",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/620578145"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37773841111112,
+          -7.78380251388889
+        ]
+      },
+      "properties": {
+        "addr:city": "Kota Yogyakarta",
+        "addr:full": "Jalan Jendral Sudirman No 70 Kotabaru",
+        "addr:housenumber": "70",
+        "addr:street": "Jalan Jenderal Sudirman",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Bethesda",
+        "operator:type": "private",
+        "phone": "+62 274 586688",
+        "source": "survey",
+        "website": "https://bethesda.or.id/",
+        "osm_type": "way",
+        "osm_id": "377998703",
+        "osm_url": "https://www.openstreetmap.org/way/377998703",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/377998703"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37306201000001,
+          -7.79641671
+        ]
+      },
+      "properties": {
+        "addr:city": "Yogyakarta",
+        "addr:full": "Jalan Hayam Wuruk No. 6 Yogyakarta",
+        "addr:street": "Jalan Hayam Wuruk",
+        "amenity": "hospital",
+        "check_date": "2025-07-15",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Bethesda Lempuyangwangi",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "253273884",
+        "osm_url": "https://www.openstreetmap.org/way/253273884",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/253273884"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.47161538333334,
+          -7.766226911111112
+        ]
+      },
+      "properties": {
+        "access:roof": "no",
+        "addr:full": "Jalan Solo KM 14 Yogyakarta",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:condition": "good",
+        "building:floor": "tekhel",
+        "building:levels": "2",
+        "building:material": "brick",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "capacity:persons": ">500",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Bhayangkara",
+        "operator:type": "government",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "491025622",
+        "osm_url": "https://www.openstreetmap.org/way/491025622",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/491025622"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.40578724000002,
+          -7.754333030000001
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Condong Catur",
+        "osm_type": "way",
+        "osm_id": "1134408330",
+        "osm_url": "https://www.openstreetmap.org/way/1134408330",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/1134408330"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.42995535,
+          -7.825506150000001
+        ]
+      },
+      "properties": {
+        "addr:full": "Jl Wonosari Km 8,5Gandu,SendangTirto, Berbah,Sleman",
+        "amenity": "hospital",
+        "name": "Rumah Sakit Dharma",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "533713529",
+        "osm_url": "https://www.openstreetmap.org/way/533713529",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/533713529"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37699286363637,
+          -7.7854769363636365
+        ]
+      },
+      "properties": {
+        "addr:full": "Jalan Juadi No 19",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Dr Soetarto",
+        "operator:type": "government",
+        "osm_type": "way",
+        "osm_id": "591475169",
+        "osm_url": "https://www.openstreetmap.org/way/591475169",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/591475169"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.43255536000001,
+          -7.770192940000001
+        ]
+      },
+      "properties": {
+        "access:roof": "yes",
+        "addr:full": "Jalan Selokan Mataram",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Hermina",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "362511092",
+        "osm_url": "https://www.openstreetmap.org/way/362511092",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/362511092"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.40353036857144,
+          -7.757864191428572
+        ]
+      },
+      "properties": {
+        "addr:full": "Jalan Ring Road Utara",
+        "addr:street": "Ring Road Utara",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit JIH",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "591934313",
+        "osm_url": "https://www.openstreetmap.org/way/591934313",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/591934313"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35290307500001,
+          -7.792381075000001
+        ]
+      },
+      "properties": {
+        "access:roof": "no",
+        "addr:full": "Jalan Wiratama No. 4",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:condition": "good",
+        "building:floor": "ceramics",
+        "building:levels": "3",
+        "building:material": "brick",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "capacity:persons": "250-500",
+        "name": "Rumah Sakit Ludira Husada Tama",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "591938608",
+        "osm_url": "https://www.openstreetmap.org/way/591938608",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/591938608"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4337796,
+          -7.748323579166667
+        ]
+      },
+      "properties": {
+        "access:roof": "yes",
+        "addr:full": "Jalan Raya Tajem",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:condition": "good",
+        "building:floor": "ceramics",
+        "building:levels": "4",
+        "building:material": "concrete",
+        "building:roof": "concrete",
+        "building:structure": "confined_masonry",
+        "capacity:persons": ">500",
+        "name": "Rumah Sakit Medika Respati",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "620278791",
+        "osm_url": "https://www.openstreetmap.org/way/620278791",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/620278791"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38798535000001,
+          -7.886219775000001
+        ]
+      },
+      "properties": {
+        "access:roof": "no",
+        "addr:full": "Jalan Imogiri Timur KM. 11.5",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:condition": "good",
+        "building:floor": "ceramics",
+        "building:levels": "3",
+        "building:material": "brick",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "capacity:persons": "250-500",
+        "name": "Rumah Sakit Nur Hidayah",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "614432401",
+        "osm_url": "https://www.openstreetmap.org/way/614432401",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/614432401"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.65809920000001,
+          -7.956385000000001
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Panti Rahayu",
+        "osm_type": "node",
+        "osm_id": "12866255147",
+        "osm_url": "https://www.openstreetmap.org/node/12866255147",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/node/12866255147"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37755818846155,
+          -7.777212942307693
+        ]
+      },
+      "properties": {
+        "access:roof": "yes",
+        "addr:city": "Yogyakarta",
+        "addr:full": "Jalan Cik Di Tiro No 30",
+        "addr:housenumber": "30",
+        "addr:street": "Jalan Cik Di Tiro",
+        "amenity": "hospital",
+        "capacity:persons": ">500",
+        "contact:facebook": "https://www.facebook.com/pantirapihhospital",
+        "contact:instagram": "rspantirapihyogyakarta",
+        "contact:youtube": "https://www.youtube.com/c/RSPantiRapih",
+        "email": "admin@pantirapih.or.id",
+        "emergency": "yes",
+        "fax": "+62274564583",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Rumah Sakit Panti Rapih",
+        "operator:type": "private",
+        "phone": "+62274514014",
+        "source": "survey",
+        "website": "https://pantirapih.or.id/rspr/",
+        "wikidata": "Q7131849",
+        "wikimedia_commons": "Category:Panti Rapih Hospital",
+        "wikipedia": "id:Rumah Sakit Panti Rapih",
+        "osm_type": "way",
+        "osm_id": "270040187",
+        "osm_url": "https://www.openstreetmap.org/way/270040187",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/270040187"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.40824183333335,
+          -7.8657948666666675
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Permata Husada",
+        "osm_type": "way",
+        "osm_id": "1134739784",
+        "osm_url": "https://www.openstreetmap.org/way/1134739784",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/1134739784"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.31723029333334,
+          -7.80116162
+        ]
+      },
+      "properties": {
+        "addr:city": "Kabupaten Sleman",
+        "addr:full": "Jalan Wates KM 5.5, Ambarketawang, Sleman",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit PKU Muhammadiyah Gamping",
+        "operator:type": "community",
+        "website": "https://pkugamping.com/",
+        "osm_type": "way",
+        "osm_id": "349955138",
+        "osm_url": "https://www.openstreetmap.org/way/349955138",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/349955138",
+          "https://www.openstreetmap.org/node/13800401439"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37367806875001,
+          -7.815760900000001
+        ]
+      },
+      "properties": {
+        "access:roof": "yes",
+        "addr:full": "Jalan Kolonel Sugiono No 98 Yogyakarta",
+        "alt_name": "RS Pratama",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:colour": "white",
+        "building:condition": "good",
+        "building:floor": "ceramics",
+        "building:levels": "5",
+        "building:levels:underground": "1",
+        "building:material": "concrete",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "capacity:persons": ">500",
+        "healthcare": "hospital",
+        "height": "20",
+        "max_level": "5",
+        "name": "Rumah Sakit Pratama",
+        "name:en": "Pratama Hospital",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "396468395",
+        "osm_url": "https://www.openstreetmap.org/way/396468395",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/396468395"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.41023595000001,
+          -7.8486080000000005
+        ]
+      },
+      "properties": {
+        "access:roof": "no",
+        "addr:full": "jalan pleret, banguntapan",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:condition": "good",
+        "building:floor": "tekhel",
+        "building:levels": "2",
+        "building:material": "brick",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "capacity:persons": "250-500",
+        "name": "Rumah Sakit Rajawali Citra",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "619125299",
+        "osm_url": "https://www.openstreetmap.org/way/619125299",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/619125299",
+          "https://www.openstreetmap.org/node/3724392322"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39088450000001,
+          -7.7833994
+        ]
+      },
+      "properties": {
+        "addr:city": "yogyakarta",
+        "addr:full": "Jalan Laksda Adisucipto No.32-34, Demangan, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55221",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Siloam Yogyakarta",
+        "operator:type": "private",
+        "source": "survey",
+        "website": "https://www.siloamhospitals.com/",
+        "wikidata": "Q19731706",
+        "wikimedia_commons": "Category:Siloam Hospitals",
+        "wikipedia": "id:Rumah Sakit Siloam",
+        "osm_type": "node",
+        "osm_id": "7331641864",
+        "osm_url": "https://www.openstreetmap.org/node/7331641864",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/node/7331641864"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.33696572500001,
+          -7.7626274
+        ]
+      },
+      "properties": {
+        "addr:full": "Jalan Ringroad Barat No.118, Mlangi, Nogotirto, Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55294",
+        "amenity": "hospital",
+        "name": "Rumah Sakit Umum Queen Latifa",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "616883613",
+        "osm_url": "https://www.openstreetmap.org/way/616883613",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/616883613"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.34586302941177,
+          -7.932126394117648
+        ]
+      },
+      "properties": {
+        "access:roof": "no",
+        "addr:full": "Jalan Parangtritis Km. 16, Patalan Jetis Bantul Yogyakarta",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:condition": "good",
+        "building:floor": "ceramics",
+        "building:levels": "3",
+        "building:material": "brick",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "capacity:persons": "250-500",
+        "name": "Rumah Sakit Umum Rachma Husada",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "616862644",
+        "osm_url": "https://www.openstreetmap.org/way/616862644",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/616862644"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35997605,
+          -7.830006200000001
+        ]
+      },
+      "properties": {
+        "access:roof": "no",
+        "addr:full": "Jl. Kyai Haji Ali Maksum Krapyak",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:condition": "good",
+        "building:floor": "ceramics",
+        "building:levels": "1",
+        "building:material": "brick",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "capacity:persons": "250-500",
+        "name": "Rumah Sakit Umum Veteran Patmasuri",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "120838420",
+        "osm_url": "https://www.openstreetmap.org/way/120838420",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/120838420"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.42481703333334,
+          -7.747103050000001
+        ]
+      },
+      "properties": {
+        "access:roof": "no",
+        "addr:full": "Karangsari, Wedomartani, Ngemplak, Sleman",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:condition": "good",
+        "building:floor": "ceramics",
+        "building:levels": "3",
+        "building:material": "concrete",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "capacity:persons": ">500",
+        "name": "Rumah Sakit Universitas Ahmad Dahlan",
+        "name:etymology:wikidata": "Q4695300",
+        "name:etymology:wikipedia": "id:Ahmad Dahlan",
+        "operator:type": "private",
+        "source": "survey",
+        "osm_type": "way",
+        "osm_id": "613598097",
+        "osm_url": "https://www.openstreetmap.org/way/613598097",
+        "igd_status": "BELUM_DIVERIFIKASI",
+        "location_kind": "representative_not_entrance",
+        "boundary_review": false,
+        "duplicate_review": "exact_normalized_name_within_250m_checked",
+        "selection_status": "candidate_general_by_name_not_registry_verified",
+        "source_objects": [
+          "https://www.openstreetmap.org/way/613598097"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "nodes": 169944,
+  "directed_edges": 330774,
+  "ways": 10220,
+  "weak_components": 573,
+  "largest_component_nodes": 158229,
+  "road_selection": {
+    "local_width_missing": 231339,
+    "allowed": 16309,
+    "vehicle_dimensions_review": 97,
+    "excluded_class": 41203,
+    "restricted_access": 7653,
+    "service_requires_access_audit": 25666,
+    "width_unparsed_review": 20,
+    "surface_review": 585,
+    "conditional_or_directional_access_review": 85,
+    "width_below_3m": 4788,
+    "oneway_ambiguous": 16,
+    "construction": 1
+  },
+  "segment_audit": {
+    "outside_buffer": 95642,
+    "segment_missing_outside_bbox": 8439,
+    "barrier_or_node_access": 723
+  },
+  "turn_rules": 203,
+  "unsupported_restriction_from_ways_excluded": 204,
+  "hospital_candidates": 50,
+  "hospital_road_proxies": 44,
+  "hospitals_need_review": 6,
+  "unique_goal_nodes": 44,
+  "buffer_m": 10000,
+  "max_hospital_gap_m": 150,
+  "source": "C:\\Users\\LENOVO\\Downloads\\java-260920.osm.pbf",
+  "source_bytes": 896987462
+}

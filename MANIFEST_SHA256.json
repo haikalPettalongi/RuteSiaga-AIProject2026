@@ -1,0 +1,467 @@
+[
+  {
+    "file": ".gitattributes",
+    "bytes": 232,
+    "sha256": "cc418bd8d29a495e67ab4eea99bda6ba4f1fae26658c445cfa17b5a41879648e"
+  },
+  {
+    "file": ".gitignore",
+    "bytes": 36,
+    "sha256": "1b9854594120d2dcac0310711d2c90a4bac2bc59a9d77137f55cc258784b41ab"
+  },
+  {
+    "file": "Jalankan-Streamlit.cmd",
+    "bytes": 288,
+    "sha256": "ef653559783eef37db8f9301a1401f678cc45f952780e3da5b4c450d006f1dfd"
+  },
+  {
+    "file": "Jalankan-Terminal.cmd",
+    "bytes": 261,
+    "sha256": "2cc1591c973fcbd0b8832dce1f9b2a3dc2ba5f77f586366f62fd6f457c9d4184"
+  },
+  {
+    "file": "Jalankan-Web.cmd",
+    "bytes": 268,
+    "sha256": "bb2043f937abb5c7332fc8a410747c9dbe010dc13339702222abaa8590800138"
+  },
+  {
+    "file": "README_MULAI_DI_SINI.md",
+    "bytes": 4805,
+    "sha256": "859da5aa8acba7d8e478ff76394b8683f171c984fe39c72d6a9e1fcd79eb507d"
+  },
+  {
+    "file": "Siapkan-Python.cmd",
+    "bytes": 384,
+    "sha256": "b9e8e15e570fc99a2a7fef87aa877ef65ac420e61bc0337a96358621367c6f72"
+  },
+  {
+    "file": "dokumen/DRAFT_BAB_1_2_REVISI_DITANDAI.md",
+    "bytes": 12601,
+    "sha256": "e429085f97479f449212bc3610a99703815fbcd1ad90a1cf5bee47ab592e1d40"
+  },
+  {
+    "file": "dokumen/LAPORAN_BAGIAN_3_DAN_4.md",
+    "bytes": 15424,
+    "sha256": "ec10d72ebf455a71cae8913593f93505cb57848e23503a7e7d74a7ebdfb84bcd"
+  },
+  {
+    "file": "dokumen/REKAP_FINAL.md",
+    "bytes": 1340,
+    "sha256": "9e19a2c67ae43454a21a97918be47fc0545913f7f6727a07a94223c1fbefaa3e"
+  },
+  {
+    "file": "dokumen/REPORT_SECTIONS_3_AND_4_EN.md",
+    "bytes": 15083,
+    "sha256": "f12353ae975eedaa9df79258860c2872ca5d90e96a93d72e5f6943f39e3d8538"
+  },
+  {
+    "file": "dokumen/RuteSiaga_Bagian_3_4_Slides.pptx",
+    "bytes": 25307,
+    "sha256": "bb0188815dc5106b76a479e9acee384b305442f350df1aa1ae8e669c03d0c1d1"
+  },
+  {
+    "file": "hasil/excel/Hasil_Uji_RuteSiaga_20_Lokasi.xlsx",
+    "bytes": 25680,
+    "sha256": "f9df871918fb2cddace2a71854e729f86112fe7b38c0ff210d896f8b78ceec0d"
+  },
+  {
+    "file": "hasil/json_manual/Grafika_rute-malam.json",
+    "bytes": 25074,
+    "sha256": "47eb5609475395a0db3a6d3db96de749e8ec9eb5611dedfac3536bab9b35a8eb"
+  },
+  {
+    "file": "hasil/json_manual/Grafika_rute-pagi.json",
+    "bytes": 25074,
+    "sha256": "4a630427d99adf839ffeb05d2ac60f0a52ce6f8f97b17e2aa466b8a0f4c38371"
+  },
+  {
+    "file": "hasil/json_manual/Grafika_rute-siang.json",
+    "bytes": 25074,
+    "sha256": "3ed28817e32c9c6e83df7296ef87ef89efda1561f7e827aeb23ab671986b4ffd"
+  },
+  {
+    "file": "hasil/json_manual/Grafika_rute-sore.json",
+    "bytes": 25074,
+    "sha256": "23e0d8aada792b240adb8849b4c2fe923b7b514721dd93a42625a7cc33001b9a"
+  },
+  {
+    "file": "hasil/json_manual/UGMPancasila_rute-malam.json",
+    "bytes": 64080,
+    "sha256": "09fa13145195d666bf3b92eeee3c71c5531720d072f4b42c2c9f5c31750bf5dd"
+  },
+  {
+    "file": "hasil/json_manual/rute-pagi.json",
+    "bytes": 189886,
+    "sha256": "62aa79b7b5de57ed7e557adc83b884bb57ea2250c510ba862e5e1607cda4de85"
+  },
+  {
+    "file": "hasil/json_manual/rute-siang.json",
+    "bytes": 180708,
+    "sha256": "cf9710040e41ca99e8311b8da60fa429d7237828f37d2ca57189282e64825072"
+  },
+  {
+    "file": "hasil/json_otomatis/hasil_batch.json",
+    "bytes": 98435,
+    "sha256": "49a80dca8ca4b844343adce6b3a976ec07330723f44d49e0f9427c3c1e908924"
+  },
+  {
+    "file": "hasil/json_terminal/hasil_perjalanan_pagi.json",
+    "bytes": 240095,
+    "sha256": "eb6a6f85258bc78ebc9ec4250b25be0bd213f8047dcbe7b2776fa05362633826"
+  },
+  {
+    "file": "jalankan.py",
+    "bytes": 629,
+    "sha256": "c9cbd4164c8e3f253eced1105cc467c8b98c4ffb929de93b4ad6fe250b128330"
+  },
+  {
+    "file": "mesin/add_poi_penalties.py",
+    "bytes": 4976,
+    "sha256": "1f89e152e6f79ea86732e1af527ce0c3d4ded1000371d2f57b78c433d0d6b165"
+  },
+  {
+    "file": "mesin/ambulance_router.py",
+    "bytes": 6747,
+    "sha256": "d1f6e18574e91dff5da04ed88842eb600ba829ddb75fdc9a35019e658be632bf"
+  },
+  {
+    "file": "mesin/audit_poi_geometry.py",
+    "bytes": 1773,
+    "sha256": "2df53e368faf2a04980e95d192f7dab299be22a3f115764b985697a2bb2cc7b5"
+  },
+  {
+    "file": "mesin/build_access_catalog.py",
+    "bytes": 6392,
+    "sha256": "7aedae7602e663ef0ea08009be0c40af26727caa8714356b6bae79331dd37880"
+  },
+  {
+    "file": "mesin/build_network_offline.py",
+    "bytes": 13498,
+    "sha256": "949dcbbc0c23421936489c7df2402a19f413240fba84bac4ae682a4bba9cc764"
+  },
+  {
+    "file": "mesin/data_offline/hospital_candidates.geojson",
+    "bytes": 113529,
+    "sha256": "af9e2b1855aa1ae72c1a5bd5fe371a27243a790a5b5200fb4a1cff2464b95907"
+  },
+  {
+    "file": "mesin/data_offline/hospital_filter_audit.json",
+    "bytes": 28084,
+    "sha256": "4f401e12203a0c81b8c8b258fea1ed60ee155cadeeb3ae4379d34296ec5ecd83"
+  },
+  {
+    "file": "mesin/data_offline/hospitals_general_filtered.geojson",
+    "bytes": 55297,
+    "sha256": "29367162b76addfd06906df21871f63f429eeaffd4cddc2406b1083fc5da7ea5"
+  },
+  {
+    "file": "mesin/data_offline/inventory_report.json",
+    "bytes": 637,
+    "sha256": "40d1f7e9f9eda1562c712e22fd465afc850fbf18c8d5b83eac102db598350816"
+  },
+  {
+    "file": "mesin/data_offline/unresolved_hospital_objects_java.json",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "file": "mesin/extract_hospitals_offline.py",
+    "bytes": 7615,
+    "sha256": "42dab268737ad85b66b6d4426ce57eb4e8e2e18458eb83e89fa3d0a7444bebcc"
+  },
+  {
+    "file": "mesin/extract_poi_offline.py",
+    "bytes": 9040,
+    "sha256": "594b483d6dd7f0d9fec2d77ee5b831d78a31950d0f91f1bc551087ea804759ca"
+  },
+  {
+    "file": "mesin/filter_hospitals.py",
+    "bytes": 5969,
+    "sha256": "c3b6c7362c9e3c8fb7ba2ac1fbdc7b056d4913283230f0ba1b526821a7f7e5f8"
+  },
+  {
+    "file": "mesin/hospital_goal_overrides.py",
+    "bytes": 809,
+    "sha256": "39cef2fd827d7aa30bfa39b485391699082567bdc93f69cca5cc2b6cd6631980"
+  },
+  {
+    "file": "mesin/network_diy/audit_jalan_grafika.json",
+    "bytes": 42032,
+    "sha256": "752425fc645ba6c30042107e141ef2fba43ee6493fb46871ff2fc7d4e67da417"
+  },
+  {
+    "file": "mesin/network_diy/audit_sardjito_source.json",
+    "bytes": 94465,
+    "sha256": "d1597c01254da61490d8ae9036cb4e7def2e650bd8ae6dc28d00a6e6ace743f6"
+  },
+  {
+    "file": "mesin/network_diy/example_poi_route.json",
+    "bytes": 29141,
+    "sha256": "952263e442a33dbfd88f45da9e75cd8ccbd12fe4733b3af868449808ca84c66f"
+  },
+  {
+    "file": "mesin/network_diy/example_route.json",
+    "bytes": 31261,
+    "sha256": "dd235997dc1c8ea230f0a8ae871147f7bee2d6b136c30cf99a08a0596f7960b9"
+  },
+  {
+    "file": "mesin/network_diy/graph_diy.json",
+    "bytes": 89647891,
+    "sha256": "ab054b577b4aa3988de08823efec9418ea3a464100d7137f966edf40ca16123a"
+  },
+  {
+    "file": "mesin/network_diy/graph_diy_poi.json",
+    "bytes": 166853409,
+    "sha256": "d2d11396ef199b50734db7a5a04647a293a050eb9721f56d480e6429f405f55e"
+  },
+  {
+    "file": "mesin/network_diy/hospital_road_mapping.json",
+    "bytes": 15929,
+    "sha256": "7299e07b3dbbeb9c1baab27b13307e7d577d3eacdcc891d112624f55cca6ce54"
+  },
+  {
+    "file": "mesin/network_diy/network_extract.json",
+    "bytes": 21059616,
+    "sha256": "a5a1b400cbcf0738cb62366c2951b82ec8c2a288aaec2ab263dda122303f4c8f"
+  },
+  {
+    "file": "mesin/network_diy/network_report.json",
+    "bytes": 1045,
+    "sha256": "3cd919a5b1e3e082a65f78f3b411b58127fea6e4aeb1d37f84236dbad578ebe2"
+  },
+  {
+    "file": "mesin/network_diy/pemeriksaan_rute_pagi.json",
+    "bytes": 911,
+    "sha256": "84910cb2bad99d132fc70cd9eb7b38cfc3490c14349bf1117b69414f5940f6ed"
+  },
+  {
+    "file": "mesin/network_diy/poi/extraction_report.json",
+    "bytes": 481,
+    "sha256": "ae8d1ecf0f66c2f4cdc2034a3ecccf4a13e84221084bd02b9f179f7bab8d2a79"
+  },
+  {
+    "file": "mesin/network_diy/poi/geometry_review.json",
+    "bytes": 1177,
+    "sha256": "6159b82462b32d037bfda7b38877c32827ce8d3c6816b6a86ff123ef986983ce"
+  },
+  {
+    "file": "mesin/network_diy/poi/influence_zones_utm49s.json",
+    "bytes": 7714446,
+    "sha256": "64cc3fc3610a77a0f80758ee14393e2a48abe1732fe5fc184b1bacdefd3141a4"
+  },
+  {
+    "file": "mesin/network_diy/poi/penalty_report.json",
+    "bytes": 2134,
+    "sha256": "5a6020daacf5474578075cab017c5b757e0b1d68971ffcfcbdb7087f096494d3"
+  },
+  {
+    "file": "mesin/network_diy/poi/poi_features.geojson",
+    "bytes": 1301693,
+    "sha256": "f257e3ef9339551df89dcdecc0aba8d995719843048af440d3e583d392d2d1b3"
+  },
+  {
+    "file": "mesin/network_diy/poi/poi_unresolved_java.json",
+    "bytes": 8523,
+    "sha256": "f7f57e0b1acba0b364412778cb694844890d23415d773d31f1ff09eaaa088ad1"
+  },
+  {
+    "file": "mesin/network_diy/restriction_audit.json",
+    "bytes": 39740,
+    "sha256": "b8a63f7ad6ec80810bca9b50f2c7576bb940d6df0a0362629affd3f746c81c25"
+  },
+  {
+    "file": "mesin/network_diy/source_sha256.json",
+    "bytes": 174,
+    "sha256": "e5fe5ab2c15af4d9147ffd3d2e506f46c74cf7a9a5a65206ebe4d3785a9bca09"
+  },
+  {
+    "file": "mesin/network_diy/validation_poi_report.json",
+    "bytes": 13955,
+    "sha256": "46a98bb1ecf342494b9910e7f7de072bca80a1a4382365015047fdb84241d36a"
+  },
+  {
+    "file": "mesin/network_diy/validation_report.json",
+    "bytes": 13933,
+    "sha256": "fab45c4d38541563b6a60edf19f3737903d07ca6dbf430597c0bc7aa6ecbc394"
+  },
+  {
+    "file": "mesin/network_diy/way_attributes.json",
+    "bytes": 2104509,
+    "sha256": "73c4f8f6a10d99c434ff4a7828809daee4aee977a59397cf655f6bb5e97c14e4"
+  },
+  {
+    "file": "mesin/network_diy_akses_awal/hospital_goal_overrides.json",
+    "bytes": 904,
+    "sha256": "6d9ae4c65bdd1d04daff4114d8c259d902fd11ee1d886f719f15aa4183d2cb0e"
+  },
+  {
+    "file": "mesin/network_diy_akses_umum/access_catalog.sqlite",
+    "bytes": 1368199168,
+    "sha256": "503114b296d9d3a72026a56af18c0de1506afaa533b1f81cc5e5e67aacbf6724"
+  },
+  {
+    "file": "mesin/network_diy_akses_umum/catalog_report.json",
+    "bytes": 674,
+    "sha256": "a7513271e94d7e8304a4f1d9fde7475a3f4b05a72a016831ff4d46adebc7e461"
+  },
+  {
+    "file": "mesin/network_diy_akses_umum/turn_restrictions.json",
+    "bytes": 30337,
+    "sha256": "afeed59f5a59f109635f2939936528d0a248ff1b2919b8772fd76780c08589a2"
+  },
+  {
+    "file": "mesin/origin_access.py",
+    "bytes": 9177,
+    "sha256": "f134716493772d797793d07980b0476004102c32dcb0787da607033010b07143"
+  },
+  {
+    "file": "mesin/pbf_reader.py",
+    "bytes": 4037,
+    "sha256": "b90bc3d1c7fdb264b3eb65deb3f75c1ab3211a3d62f73de32266a32594c0d7af"
+  },
+  {
+    "file": "mesin/projection_diy.py",
+    "bytes": 2595,
+    "sha256": "9b7887622705271ab7abc241c7f4b133d09a41ab2199aa1b53c9b4988992155a"
+  },
+  {
+    "file": "mesin/report_network.py",
+    "bytes": 5592,
+    "sha256": "def09719299b8f32430ae781f30cf58542a4ef7feafc3c0269c785f7df66043e"
+  },
+  {
+    "file": "mesin/report_poi.py",
+    "bytes": 7352,
+    "sha256": "4de9df205ef95b879713f306bbf119c2caacbfa711320029f9ea477349f84cd2"
+  },
+  {
+    "file": "mesin/route_network.py",
+    "bytes": 3908,
+    "sha256": "ebae403640f1bbfa6f87ec31c5d5b54c84a343f4cda2f05e0e66891784cc8c5f"
+  },
+  {
+    "file": "mesin/test_network.py",
+    "bytes": 2309,
+    "sha256": "2ef8717a02af9e24f552a0cc511573786f58e226b91762cbfa5d7bb02d23f74f"
+  },
+  {
+    "file": "mesin/test_origin_access.py",
+    "bytes": 6242,
+    "sha256": "ff858e1a797056c04f38457c043271a044a9568935e0c67454b24230fb07f575"
+  },
+  {
+    "file": "mesin/test_pbf_reader.py",
+    "bytes": 1718,
+    "sha256": "fa1dcb29e13397ed4d46901e7f9acbfdf1f8c4b5a82e2b965a0cfca325d52339"
+  },
+  {
+    "file": "mesin/test_poi.py",
+    "bytes": 1770,
+    "sha256": "47ba866d5f9e65ab3e3af48c84a33bf256d59115f14fdb3309ab86458bf37eb2"
+  },
+  {
+    "file": "mesin/test_router.py",
+    "bytes": 3135,
+    "sha256": "dce2982959e25dad8f9113a53255edb2e7fead936c0c48cb21dc0c7c2819ef0b"
+  },
+  {
+    "file": "mesin/test_turn_oracle.py",
+    "bytes": 2129,
+    "sha256": "3a5a61ece343d09f5e9edb5d0b7d1609a05ee22b6d7b338a3c09ea1507f582e4"
+  },
+  {
+    "file": "mesin/uji_perjalanan.py",
+    "bytes": 6067,
+    "sha256": "f0a781171f2b52309c59b5b2f05bf6cf1e1056091ca772dfd152fccda6096e6e"
+  },
+  {
+    "file": "mesin/validate_network.py",
+    "bytes": 6013,
+    "sha256": "0009c3c4982c040db8ea9324540cf9c6a9a2ee6354b4bf7c5ade8f7d10f6ba23"
+  },
+  {
+    "file": "mesin/validate_origin_general.py",
+    "bytes": 4172,
+    "sha256": "040ae7c5f5194f651987608ed6cb25cac6b6d74c7849afc858546b79d5bcb17a"
+  },
+  {
+    "file": "pengujian/run_batch.py",
+    "bytes": 7159,
+    "sha256": "deae50df193fb37c2ac0cd521cb8d5b9140c3e5a7223291d42785000e45a5499"
+  },
+  {
+    "file": "requirements.txt",
+    "bytes": 89,
+    "sha256": "48a6a8a3a66ccc0672470296308a1645d99769b682a8036b5adfe1451088346d"
+  },
+  {
+    "file": "streamlit_app.py",
+    "bytes": 7445,
+    "sha256": "4df325bc2aee7a3acdfecff679e5a7dc7176ca20e7c63f42b5ed3bd980d85fcf"
+  },
+  {
+    "file": "web/config.json",
+    "bytes": 49,
+    "sha256": "47b40b5e9fe494a5ae0acd7344a638094529b379b52859066fbf283e26da4fc2"
+  },
+  {
+    "file": "web/dist/app.js",
+    "bytes": 22554,
+    "sha256": "3e66d1d3052ec600dc25f5c4a3679ddb16326aa2b65d8bc2461025ca52408070"
+  },
+  {
+    "file": "web/dist/index.html",
+    "bytes": 7783,
+    "sha256": "7e4daaf4f196c6371fbb172b3c2e8c171639a417e77b4d15c98337bcd261bc29"
+  },
+  {
+    "file": "web/dist/style.css",
+    "bytes": 12381,
+    "sha256": "0ac2a43230a056afcc1cbc63938ddabb8e1536819993364d34565f76c7bb3d7c"
+  },
+  {
+    "file": "web/location_search.py",
+    "bytes": 4946,
+    "sha256": "78c79c3bfce91daa6d268f7bf1d6e771fb84e24d825de7fe77b8a9be492db8eb"
+  },
+  {
+    "file": "web/locations_index.json",
+    "bytes": 1102794,
+    "sha256": "02ec7fcaaae70f6cfc6da300aa64cd5f7f981639a61716b392c9f5d4ab052d41"
+  },
+  {
+    "file": "web/origin_access_web.py",
+    "bytes": 110,
+    "sha256": "d93a8012e727b546fbf9b0b96aa13cfe8dcf957f26c0c6e098c2a0ed706f89da"
+  },
+  {
+    "file": "web/places_osm.json",
+    "bytes": 8410296,
+    "sha256": "6c223a5f22db2795b9ce03cbc2e9e45a557dc546bfa69001cc06194cde5b9f2b"
+  },
+  {
+    "file": "web/server.py",
+    "bytes": 9271,
+    "sha256": "06faf21d0e3a5ac732e0952de4488c5028f00ef18c9468e59d5c7594bcbcf207"
+  },
+  {
+    "file": "web/test_location_search.py",
+    "bytes": 1170,
+    "sha256": "08b88b04e146a517de0da59d26973cc2bf74c9932ef89f27e3e95a7e1edb2b50"
+  },
+  {
+    "file": "web/test_map_coverage.py",
+    "bytes": 521,
+    "sha256": "f351ecf0eb7a04fc206c6454e24e1f2c75be46808507ba5ec6b1ae375da6d634"
+  },
+  {
+    "file": "web/test_origin_access_web.py",
+    "bytes": 2555,
+    "sha256": "cd6ccf336c93671d9e9dfcb1144181038307711fcdd769fe5bf3852de6eb7def"
+  },
+  {
+    "file": "web/test_search_trace.py",
+    "bytes": 931,
+    "sha256": "f3ff53ac304f93e660e9208b6f9b3e5b7e50ed138e7bf939b29754cd6233cdc5"
+  }
+]

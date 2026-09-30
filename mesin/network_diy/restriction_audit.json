@@ -1,0 +1,2265 @@
+[
+  {
+    "id": "4242952",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "4522827",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "4537948",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "4763181",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "561138356"
+    ]
+  },
+  {
+    "id": "4763182",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "153857851"
+    ]
+  },
+  {
+    "id": "4763187",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5611960",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5611961",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5611962",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5611963",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5611964",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5664162",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "434557396"
+    ]
+  },
+  {
+    "id": "5710500",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5710501",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5710502",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5710503",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5710504",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5710505",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5712596",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5712598",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5712600",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5712601",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5712602",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5712603",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5712604",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5712605",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5714981",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5714982",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5714983",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5714984",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5714988",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5714990",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "5719626",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6922699",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6922701",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6922855",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6922856",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6922857",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6922958",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6922959",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6923227",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6923228",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6923229",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6930267",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6930271",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6930275",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6930279",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6930282",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6930283",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6930286",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6952238",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6952240",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6952242",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6952243",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6954961",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6954965",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6954966",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6954967",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6954968",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6954969",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6954999",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6968296",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6968334",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6968346",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6968347",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6968377",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6968378",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "6988445",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "7622660",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "325365036",
+      "1545342474",
+      "1545342473"
+    ]
+  },
+  {
+    "id": "7889523",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "7930280",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "357169580"
+    ]
+  },
+  {
+    "id": "8397331",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "8397332",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "9586750",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "10064818",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "727366223"
+    ]
+  },
+  {
+    "id": "10657681",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "10657682",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "10732316",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "10949725",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "11251787",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "820890450"
+    ]
+  },
+  {
+    "id": "11278997",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "469638940"
+    ]
+  },
+  {
+    "id": "11278998",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "11302482",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "11616496",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "11616497",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "11616498",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "727366221"
+    ]
+  },
+  {
+    "id": "11616499",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "727366222"
+    ]
+  },
+  {
+    "id": "11979199",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "12135533",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "12234516",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1126802807"
+    ]
+  },
+  {
+    "id": "12556455",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "12556456",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "928108913"
+    ]
+  },
+  {
+    "id": "12569752",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "929608307"
+    ]
+  },
+  {
+    "id": "12569753",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "929608310"
+    ]
+  },
+  {
+    "id": "12570723",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "929699420"
+    ]
+  },
+  {
+    "id": "12570738",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "929700969"
+    ]
+  },
+  {
+    "id": "12571121",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "584854876"
+    ]
+  },
+  {
+    "id": "12571122",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "929730429"
+    ]
+  },
+  {
+    "id": "12571143",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "929734450"
+    ]
+  },
+  {
+    "id": "12571169",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1129702135"
+    ]
+  },
+  {
+    "id": "12571170",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "929739089"
+    ]
+  },
+  {
+    "id": "12571189",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "929741090"
+    ]
+  },
+  {
+    "id": "12571200",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1423382714"
+    ]
+  },
+  {
+    "id": "12571201",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1423382712"
+    ]
+  },
+  {
+    "id": "12574504",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "930194096"
+    ]
+  },
+  {
+    "id": "12574796",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "930203682"
+    ]
+  },
+  {
+    "id": "12574797",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "930203678"
+    ]
+  },
+  {
+    "id": "12574807",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1074352079"
+    ]
+  },
+  {
+    "id": "12580758",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "930652955"
+    ]
+  },
+  {
+    "id": "12583445",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "338097223"
+    ]
+  },
+  {
+    "id": "12588220",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "931349319"
+    ]
+  },
+  {
+    "id": "12613933",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "138104780"
+    ]
+  },
+  {
+    "id": "12634055",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "12639060",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "12639061",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "12665257",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1192710316"
+    ]
+  },
+  {
+    "id": "12767803",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "12788772",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "948897045"
+    ]
+  },
+  {
+    "id": "12833499",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "953044528"
+    ]
+  },
+  {
+    "id": "12833872",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "953062779"
+    ]
+  },
+  {
+    "id": "12845703",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "568417986"
+    ]
+  },
+  {
+    "id": "12845704",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "954111744"
+    ]
+  },
+  {
+    "id": "12845720",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "366409717"
+    ]
+  },
+  {
+    "id": "12849420",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "12849428",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "12849429",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "12853184",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "954836035"
+    ]
+  },
+  {
+    "id": "12853185",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "954836036"
+    ]
+  },
+  {
+    "id": "12853503",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "12857587",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "955238549"
+    ]
+  },
+  {
+    "id": "12857588",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "955238547"
+    ]
+  },
+  {
+    "id": "12857589",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "955238554"
+    ]
+  },
+  {
+    "id": "12857928",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1031933608"
+    ]
+  },
+  {
+    "id": "12860587",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "357667668"
+    ]
+  },
+  {
+    "id": "12871606",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1101016724"
+    ]
+  },
+  {
+    "id": "12872036",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1264383902"
+    ]
+  },
+  {
+    "id": "12884076",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1129702137"
+    ]
+  },
+  {
+    "id": "12894673",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "958773323"
+    ]
+  },
+  {
+    "id": "12902240",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "959671543"
+    ]
+  },
+  {
+    "id": "12902241",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "959671546"
+    ]
+  },
+  {
+    "id": "12902266",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "959677745"
+    ]
+  },
+  {
+    "id": "12902267",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "959677741"
+    ]
+  },
+  {
+    "id": "12902436",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "959686563"
+    ]
+  },
+  {
+    "id": "12902437",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "959686564"
+    ]
+  },
+  {
+    "id": "12906320",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "561166508"
+    ]
+  },
+  {
+    "id": "12906321",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "960041667"
+    ]
+  },
+  {
+    "id": "12910446",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "300747521"
+    ]
+  },
+  {
+    "id": "12919710",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "960747056"
+    ]
+  },
+  {
+    "id": "12920354",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "961550805"
+    ]
+  },
+  {
+    "id": "13051174",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "960041666"
+    ]
+  },
+  {
+    "id": "13273990",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "987976693"
+    ]
+  },
+  {
+    "id": "13303965",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "991166213"
+    ]
+  },
+  {
+    "id": "13303966",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1125658916"
+    ]
+  },
+  {
+    "id": "13303967",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "991166218"
+    ]
+  },
+  {
+    "id": "13321402",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "300751596"
+    ]
+  },
+  {
+    "id": "13325919",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "13417030",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1000451148"
+    ]
+  },
+  {
+    "id": "13417102",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "955657662"
+    ]
+  },
+  {
+    "id": "13423999",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "992448143"
+    ]
+  },
+  {
+    "id": "13424058",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "152763512"
+    ]
+  },
+  {
+    "id": "13424454",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1088696233"
+    ]
+  },
+  {
+    "id": "13424552",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "712611322"
+    ]
+  },
+  {
+    "id": "13424631",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "13424654",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "13427535",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "153821715"
+    ]
+  },
+  {
+    "id": "13427541",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1150870954"
+    ]
+  },
+  {
+    "id": "13427608",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1001309516"
+    ]
+  },
+  {
+    "id": "13427618",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "367781020"
+    ]
+  },
+  {
+    "id": "13428803",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1024225754"
+    ]
+  },
+  {
+    "id": "13632293",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1464214756"
+    ]
+  },
+  {
+    "id": "13644833",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "561433549"
+    ]
+  },
+  {
+    "id": "13754042",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "469638939"
+    ]
+  },
+  {
+    "id": "13754045",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1027264380"
+    ]
+  },
+  {
+    "id": "13754485",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1027264383"
+    ]
+  },
+  {
+    "id": "13758023",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "472820114"
+    ]
+  },
+  {
+    "id": "13781526",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "13801059",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1031054916"
+    ]
+  },
+  {
+    "id": "13801060",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1031054918"
+    ]
+  },
+  {
+    "id": "13801890",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1125497976"
+    ]
+  },
+  {
+    "id": "13801891",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1125497974"
+    ]
+  },
+  {
+    "id": "13808883",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "13872556",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "326999194"
+    ]
+  },
+  {
+    "id": "13872557",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1035904886"
+    ]
+  },
+  {
+    "id": "13873814",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "496072354"
+    ]
+  },
+  {
+    "id": "13906114",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1037864242"
+    ]
+  },
+  {
+    "id": "13906522",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "13906646",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1038678453"
+    ]
+  },
+  {
+    "id": "13929538",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1040778107"
+    ]
+  },
+  {
+    "id": "13981257",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "14116232",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "14152309",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "14226514",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "14302681",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1072963958"
+    ]
+  },
+  {
+    "id": "14444288",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "156646379"
+    ]
+  },
+  {
+    "id": "14523485",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1085232878"
+    ]
+  },
+  {
+    "id": "14656356",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "14670833",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "14670835",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "14670836",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "14685930",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "898190684"
+    ]
+  },
+  {
+    "id": "14710419",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "14737366",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "300747509"
+    ]
+  },
+  {
+    "id": "14737367",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1107344889"
+    ]
+  },
+  {
+    "id": "14786188",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "898190685"
+    ]
+  },
+  {
+    "id": "14879776",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "14981844",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1090651868"
+    ]
+  },
+  {
+    "id": "14981845",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "24277044"
+    ]
+  },
+  {
+    "id": "14982023",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1464917145"
+    ]
+  },
+  {
+    "id": "14983811",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15025713",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "729791879"
+    ]
+  },
+  {
+    "id": "15025737",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15031567",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "590064461"
+    ]
+  },
+  {
+    "id": "15035362",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15035363",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15035471",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1265019126"
+    ]
+  },
+  {
+    "id": "15039430",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "484349908"
+    ]
+  },
+  {
+    "id": "15054328",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15056621",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1046415017"
+    ]
+  },
+  {
+    "id": "15056622",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1125410317"
+    ]
+  },
+  {
+    "id": "15056623",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1046415020"
+    ]
+  },
+  {
+    "id": "15061631",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1125666662"
+    ]
+  },
+  {
+    "id": "15061632",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1125666665"
+    ]
+  },
+  {
+    "id": "15061633",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1125666668"
+    ]
+  },
+  {
+    "id": "15062442",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1125721831"
+    ]
+  },
+  {
+    "id": "15067745",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1125934581"
+    ]
+  },
+  {
+    "id": "15067746",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "825837299"
+    ]
+  },
+  {
+    "id": "15067747",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "825752395"
+    ]
+  },
+  {
+    "id": "15067748",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "825752396"
+    ]
+  },
+  {
+    "id": "15067749",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "825837298"
+    ]
+  },
+  {
+    "id": "15067903",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1125940724"
+    ]
+  },
+  {
+    "id": "15067904",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1125940842"
+    ]
+  },
+  {
+    "id": "15067905",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1125940843"
+    ]
+  },
+  {
+    "id": "15067906",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1125940844"
+    ]
+  },
+  {
+    "id": "15082281",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1126739862"
+    ]
+  },
+  {
+    "id": "15082282",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1126739863"
+    ]
+  },
+  {
+    "id": "15082345",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1126741541"
+    ]
+  },
+  {
+    "id": "15082346",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1126741545"
+    ]
+  },
+  {
+    "id": "15082347",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1126741546"
+    ]
+  },
+  {
+    "id": "15082538",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15082925",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "900097528"
+    ]
+  },
+  {
+    "id": "15082926",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "900097530"
+    ]
+  },
+  {
+    "id": "15083017",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1213503282"
+    ]
+  },
+  {
+    "id": "15087100",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15090225",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1126741544"
+    ]
+  },
+  {
+    "id": "15090226",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1127598262"
+    ]
+  },
+  {
+    "id": "15093198",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1127870524"
+    ]
+  },
+  {
+    "id": "15093226",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1127872967"
+    ]
+  },
+  {
+    "id": "15141902",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "954184226"
+    ]
+  },
+  {
+    "id": "15256118",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15256119",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15256121",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15256572",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15257669",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1130635323"
+    ]
+  },
+  {
+    "id": "15257670",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "957868991"
+    ]
+  },
+  {
+    "id": "15405913",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15484326",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1146460153"
+    ]
+  },
+  {
+    "id": "15484327",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "616486677"
+    ]
+  },
+  {
+    "id": "15484393",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1146460152"
+    ]
+  },
+  {
+    "id": "15601966",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1101016725"
+    ]
+  },
+  {
+    "id": "15658335",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15829609",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15829610",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15829611",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15829612",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15829613",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15829614",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15829615",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15829616",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15829617",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15829618",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15829619",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15829620",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "15829621",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16002462",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "131706631"
+    ]
+  },
+  {
+    "id": "16009577",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1184373788"
+    ]
+  },
+  {
+    "id": "16058117",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1187642353"
+    ]
+  },
+  {
+    "id": "16172301",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16172302",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16172303",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16172304",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16172305",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16172306",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16172307",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16183411",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1196721155"
+    ]
+  },
+  {
+    "id": "16249855",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "159959985"
+    ]
+  },
+  {
+    "id": "16285389",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16312684",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16317592",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16347382",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16445505",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1126798412"
+    ]
+  },
+  {
+    "id": "16458577",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16463975",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1126741543"
+    ]
+  },
+  {
+    "id": "16468949",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16513699",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "347406403"
+    ]
+  },
+  {
+    "id": "16521118",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16528583",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "159959989"
+    ]
+  },
+  {
+    "id": "16563702",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "469637106"
+    ]
+  },
+  {
+    "id": "16771596",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "153857844"
+    ]
+  },
+  {
+    "id": "16774030",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16782813",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1227923240"
+    ]
+  },
+  {
+    "id": "16782836",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16783467",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1228601121"
+    ]
+  },
+  {
+    "id": "16793395",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "568417977"
+    ]
+  },
+  {
+    "id": "16837820",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16837821",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1232308966"
+    ]
+  },
+  {
+    "id": "16999787",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "16999788",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17000162",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17287307",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17311750",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "586778130"
+    ]
+  },
+  {
+    "id": "17394298",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17398843",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1107344889"
+    ]
+  },
+  {
+    "id": "17415440",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17415441",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "782316990"
+    ]
+  },
+  {
+    "id": "17415442",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "340079352"
+    ]
+  },
+  {
+    "id": "17415443",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "932193158"
+    ]
+  },
+  {
+    "id": "17431067",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17500047",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1151395721"
+    ]
+  },
+  {
+    "id": "17500275",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "804078274"
+    ]
+  },
+  {
+    "id": "17548334",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1218497544"
+    ]
+  },
+  {
+    "id": "17595951",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "153857868"
+    ]
+  },
+  {
+    "id": "17645323",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1151114518"
+    ]
+  },
+  {
+    "id": "17746131",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "727368745"
+    ]
+  },
+  {
+    "id": "17775593",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1072963958"
+    ]
+  },
+  {
+    "id": "17791510",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17791512",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17791513",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17791640",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17791641",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17791642",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17791643",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17818414",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "954836031"
+    ]
+  },
+  {
+    "id": "17828179",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "568417977"
+    ]
+  },
+  {
+    "id": "17842412",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "134603786"
+    ]
+  },
+  {
+    "id": "17872587",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1303618223"
+    ]
+  },
+  {
+    "id": "17921272",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17921335",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "17925344",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "18094623",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "18094624",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "18374451",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "588593156"
+    ]
+  },
+  {
+    "id": "18434938",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "18434942",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "238909667"
+    ]
+  },
+  {
+    "id": "18469019",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "18540683",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1350609078"
+    ]
+  },
+  {
+    "id": "18627835",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "705015515"
+    ]
+  },
+  {
+    "id": "18627836",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1355298157"
+    ]
+  },
+  {
+    "id": "18694018",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "900097529"
+    ]
+  },
+  {
+    "id": "18759766",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1135318966"
+    ]
+  },
+  {
+    "id": "18759767",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1363299518"
+    ]
+  },
+  {
+    "id": "18759768",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "781789447"
+    ]
+  },
+  {
+    "id": "18898173",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "930911485"
+    ]
+  },
+  {
+    "id": "19097368",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1384331432"
+    ]
+  },
+  {
+    "id": "19150328",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19150329",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19150330",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19150331",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19150332",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19150333",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19150334",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19150335",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19192581",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19206133",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19270365",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19306040",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1196721154"
+    ]
+  },
+  {
+    "id": "19386778",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "818447560"
+    ]
+  },
+  {
+    "id": "19402479",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19450976",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1421672765"
+    ]
+  },
+  {
+    "id": "19474168",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19516441",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19516442",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19516443",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19529072",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19581868",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "424465809"
+    ]
+  },
+  {
+    "id": "19621144",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19631540",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1496828210"
+    ]
+  },
+  {
+    "id": "19776638",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "19776985",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "358510648"
+    ]
+  },
+  {
+    "id": "19776987",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "925286610"
+    ]
+  },
+  {
+    "id": "19777180",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "358510648"
+    ]
+  },
+  {
+    "id": "19819758",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "591485671"
+    ]
+  },
+  {
+    "id": "19936152",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1457051541"
+    ]
+  },
+  {
+    "id": "19951713",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "472820106"
+    ]
+  },
+  {
+    "id": "20147441",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "587370800"
+    ]
+  },
+  {
+    "id": "20147442",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1472066801"
+    ]
+  },
+  {
+    "id": "20147443",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1472066797"
+    ]
+  },
+  {
+    "id": "20147444",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1472066798"
+    ]
+  },
+  {
+    "id": "20168260",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1473852053"
+    ]
+  },
+  {
+    "id": "20258781",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "166903505"
+    ]
+  },
+  {
+    "id": "20376932",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20376933",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20605157",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "1123240845"
+    ]
+  },
+  {
+    "id": "20627174",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20628920",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "778621452"
+    ]
+  },
+  {
+    "id": "20628975",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "942005065"
+    ]
+  },
+  {
+    "id": "20628992",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "131706631"
+    ]
+  },
+  {
+    "id": "20689900",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20689901",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20689902",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20689903",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20689904",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20689905",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20689906",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20689907",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20689908",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20689909",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20689910",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20689911",
+    "action": "turn_state_rule"
+  },
+  {
+    "id": "20744023",
+    "action": "exclude_from_ways_conservatively",
+    "from": [
+      "141322060"
+    ]
+  },
+  {
+    "id": "21190491",
+    "action": "turn_state_rule"
+  }
+]

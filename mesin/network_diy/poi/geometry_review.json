@@ -1,0 +1,42 @@
+{
+  "unresolved_java": 65,
+  "unresolved_with_known_vertices_in_model_region": [
+    {
+      "osm_type": "relation",
+      "osm_id": "6833880",
+      "kind": "school",
+      "name": "SD Negeri Krajan 1",
+      "reason": "unclosed_inner_fragment"
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": "7081189",
+      "kind": "school",
+      "name": "SMP Negeri 5 Yogyakarta",
+      "reason": "unclosed_inner_fragment"
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": "7642294",
+      "kind": "school",
+      "name": "Pondok Pesantren Darussalam Watuongol",
+      "reason": "unclosed_inner_fragment"
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": "7642343",
+      "kind": "school",
+      "name": "Pondok Pesantren Gus Ipul",
+      "reason": "unclosed_inner_fragment"
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": "7665837",
+      "kind": "market",
+      "name": "Pasar Tegalsari",
+      "reason": "unclosed_inner_fragment"
+    }
+  ],
+  "unresolved_without_locatable_vertices": [],
+  "note": "Unresolved objects are excluded; absence of a known in-region vertex is not proof of non-intersection."
+}
